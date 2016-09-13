@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Files Upload</title>
+    </head>
+
+    <body>
+
+
+        <!-- Upload form. Note enctype attribute! -->
+        <form action="{% url "SBSYNC"%}" method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+
+			<p>{{ form.non_field_errors }}</p>
+
+			<p>{{ form.docfile.label_tag }} {{ form.docfile.help_text }}</p>
+
+			<p>
+				{{ form.docfile.errors }}
+				{{ form.docfile }}
+			</p>			
+			
+			<p>{{ form.non_field_errors }}</p>
+
+			<p>{{ form.BOM_59t.label_tag }} {{ form.BOM_59t.help_text }}</p>
+
+			<p>
+				{{ form.BOM_59t.errors }}
+				{{ form.BOM_59t }}
+			</p>			
+			
+			<p>{{ form.non_field_errors }}</p>
+
+			<p>{{ form.BOM_59b.label_tag }} {{ form.BOM_59b.help_text }}</p>
+
+			<p>
+				{{ form.BOM_59b.errors }}
+				{{ form.BOM_59b }}
+			</p>			
+			
+			<p>{{ form.non_field_errors }}</p>
+
+			<p>{{ form.BOM_70.label_tag }} {{ form.BOM_70.help_text }}</p>
+
+			<p>
+				{{ form.BOM_70.errors }}
+				{{ form.BOM_70 }}
+			</p>			
+			
+			<p>{{ form.non_field_errors }}</p>
+
+			<p>{{ form.EXP.label_tag }} {{ form.EXP.help_text }}</p>
+
+			<p>
+				{{ form.EXP.errors }}
+				{{ form.EXP }}
+			</p>			
+			
+			
+			
+				
+			<p>{{ form.non_field_errors }}</p>
+
+			<p>{{ form.CMP.label_tag }} {{ form.CMP.help_text }}</p>
+
+			<p>
+				{{ form.CMP.errors }}
+				{{ form.CMP }}
+			</p>
+
+
+            <p><input type="submit" value="Upload"/></p>
+
+			
+        <!-- List of uploaded documents -->
+        {% if documents %}
+            <ul>
+                {% for document in documents %}
+                    <li><a href="{{ document.docfile.url }}">{{ document.docfile.name }}</a></li>
+                {% endfor %}
+            </ul>
+			<p>-------------------</p>
+			
+        {% else %}
+            <p>No documents.</p>
+        {% endif %}
+			
+			
+        </form>
+
+		
+    </body>
+
+</html>

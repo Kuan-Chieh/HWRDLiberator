@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>SBSYNC</title>
+    </head>
+
+    <body>
+        {% if method %}
+			<p>{{method}}</p>
+			<p>{{ID}}</p>
+			<div class="content">
+				{{output|linebreaks }}
+			</div>
+
+		{% else %}
+			<p>{{ID}}</p>
+			<p>{{output}}</p>
+		{% endif %}
+		{% for function in functions %}
+			<form action="{% url "SBSYNC"%}" method="post" enctype="multipart/form-data">
+				{% csrf_token %}
+				<input type = "hidden" name="method" value={{function}}>
+				<input type = "hidden" name="ID" value={{ID}}>
+
+				<p><input type="submit" value={{function}} /></p>
+			</form>
+		{% endfor %}
+    </body>
+
+</html>

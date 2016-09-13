@@ -1,0 +1,2784 @@
+  10 01G011080000AK             GA PCS       1.0000 16/07/06                 NY
+   P CPU DENVERTON-S FCBGA1310(A1)                                                 
+     INTEL 1.8G/16M/948449/QKP2 ES2                          U1,                 
+  20 02G154000600AK             GA PCS       1.0000 16/07/06                 NY
+   P C.S AST2500A2-GP TFBGA456                                                     
+     ASPEED                                                  BU3,                
+  30 02G611002710AK             GA PCS       1.0000 16/07/06                 NY
+   P C.S RTL8211E-VB-CG QFN-48                                                  3  
+     REALTEK/COPPER MATERIAL                                 BU26,               
+     MARKING:RTL8211E/LLLLLLL/GYWWB
+  40 02G751000600AK             GA PCS       1.0000 16/07/06                 NY
+   P C.S 88E1543-A1-LKJ2C000                                                       
+     MARVELL LQFP128 (Quad GbE PHY)                          GU1,                
+     MARKING:88E1543-LKJ2/LLLLLLL.LLL/YYWW A1X/COO
+  50 02G963001020AK             GA PCS       1.0000 16/07/06                 NY
+   P C.S NCT5573D(FAC) LQFP-64                                                  3  
+     NUVOTON LPC I/O PECI3.0                                 OU1,                
+     MARKING:nuvoTon/NCT5573D/LLLLLLLL-LL/YWWXXCFA or LLLLLLLL/YWWXXCFA
+  60 03G151038212AK             GA PCS       1.0000 16/07/06               S NY
+   P DDR3L 1600 128M*16-1.25 FBGA96                                                
+     SAMSUNG/K4B2G1646F-BYK0                                 BU7,                
+    (03G151038020AK      )      GA           1.0000 16/07/05                     Y
+     DDR3L 1600 128M*16-1.25 FBGA96                                                
+     NANYA/NT5CC128M16IP-DI         
+  70 05G001800011AK       燒    GA PCS       1.0000 16/08/22               S NY
+   P FLASH WINBOND W25Q128FVSIQ                                                    
+     128Mb/SOIC-8(208mil)/2.7V~3.6V                          BIOS1_1,            
+     MARKING:winbond/25Q128FVSQ/yyww
+    (05G001800020AK      )      GA           1.0000 16/08/22                     Y
+     FLASH MXIC MX25L12873FM2I-10G                                                 
+     128Mb/SOIC-8(200mil)/2.7V~3.6V 
+     MARKING:MXIC MX/25L12873F/M2I-10G/........../.yyww..
+  80 06G004004010AK             GA PCS       1.0000 16/07/06               S NY
+   P LOGIC 74AUP1G08GW      SOT353                                              1  
+     NXP                                                     BU11,               
+     MARKING:pE
+    (06G004026010AK      )      GA           1.0000 16/07/05                     Y
+     LOGIC SN74AUP1G08DCKR SC-70                                                1  
+     TI                             
+     MARKING:HE.
+  90 06G004009010AK             GA PCS       1.0000 16/08/24               S NY
+   P LOGIC 74LVC1G06GW      SOT-353                                                
+     NXP                                                     BU4,                
+     MARKING:VR
+    (06G004009020AK      )      GA           1.0000 16/08/24                     Y
+     LOGIC SN74LVC1G06DCKR    SC-70                                                
+     TI                             
+ 110 06G004014010AK             GA PCS       5.0000 16/07/06               S NY
+   P LOGIC 74LVC1G07GW     SOT353-1                                                
+     NXP                                                     BU18,BU19,BU21,BU22,
+     MARKING:VS                                              OU2,                
+    (06G004014110AK      )      GA           5.0000 16/07/05                     Y
+     LOGIC SN74LVC1G07DCKR    SC-70                                             1  
+     TI                             
+     MARKING:CV.
+ 120 06G004018010AK             GA PCS       1.0000 16/07/06               S NY
+   P LOGIC PCA9557PW TSSOP-16                                                      
+     NXP/8-bit I2C GPIO EXPANDER                             BU12,               
+     MARKING:PCA9557/......./...yy/ww.
+    (06G004018011AK      )      GA           1.0000 16/07/05                     Y
+     LOGIC PCA9557PWR TSSOP-16                                                  3  
+     TI/8-bit I2C GPIO EXPANDER     
+     MARKING:PD557/ym.../....
+ 140 06G004023110AK             GA PCS       1.0000 16/07/06               S NY
+   P LOGIC 74LVC08APW TSSOP-14                                                     
+     NXP                                                     U6737,              
+     MARKING:LVC08A/......./...yy/ww.
+    (06G004023010AK      )      GA           1.0000 16/07/05                     Y
+     LOGIC SN74LVC08APWR TSSOP-14                                                  
+     TI                             
+     MARKING:LC08A/ym.../....
+ 170 06G004050020AK             GA PCS       2.0000 16/08/24               S NY
+   P LOGIC 74LVC1G125GW    SOT353-5                                                
+     NXP                                                     BU13,BU14,          
+    (06G004050120AK      )      GA           2.0000 16/08/24                     Y
+     LOGIC SN74LVC1G125DCKR  SC70-5                                                
+     TI                             
+ 200 06G004102010               GA PCS       6.0000 16/08/03               S NY
+   P LOGIC 74LVC1G14GW       SOT353                                                
+     PHILIPS                                                 BU31,BU32,U6709,    
+     MARKING:VF                                              U6710,U6711,UBMC5,  
+    (06G004005020        )      GA           6.0000 16/07/05                     Y
+     LOGIC SN74LVC1G14DCKR     SC70                                             1  
+     TI                             
+     MARKING:CF.
+ 220 06G004601010AK             GA PCS       1.0000 16/07/06               S NY
+   P LOGIC 74HC74PW        TSSOP-14                                                
+     NXP                                                     U6734,              
+     MARKING:HC74/......./....y/ww.
+    (06G004407010AK      )      GA           1.0000 16/07/05                     Y
+     LOGIC SN74HC74PWR TSSOP-14                                                 1  
+     TI                             
+     MARKING:HC74/ym.../....
+ 230 06G007526011AK             GA PCS       1.0000 16/07/06               S NY
+   P LIN REG. RT9045ZSP SOP-8                                                   3  
+     RICHTEK/COPPER MATERIAL                                 PU7,                
+     MARKING:RT9045/ZSP
+    (06G007004010AK      )      GA           1.0000 16/07/05                     Y
+     BUS TERMINATION REG. NCT3101S                                              3  
+     PSOP-8 NUVOTON (HF)            
+     MARKING:nuvoTon/3101S/.....
+    (06G007526010        )      GA           1.0000 16/07/05                     Y
+     LIN REG. RT9045GSP SOP-8                                                   3  
+     RICHTEK                        
+     MARKING:RT9045/GSP
+ 240 06G008018010AK             GA PCS       3.0000 16/07/06                 NY
+   P DRIVER IR3598MTRPBF  QFN-16                                                   
+     IR/CHL8526CRT                                           PU2,PU3,PU5,        
+     MARKING:IR/3598
+ 250 06G010008100               GA PCS       1.0000 16/07/06               S NN
+   P OP AMP. LM358DR            S-8                                                
+     TI                         <G>                          BU10,               
+     MARKING:LM358
+     QVL:德州儀器,
+    (06G010150010        )      GA           1.0000 16/07/05                     N
+     OP AMP. LM358DT           S-8                                              1  
+     ST                         <G> 
+     MARKING:358/ST...yww
+     QVL:意法,
+ 260 06G015001010AK             GA PCS       1.0000 16/07/06               S NY
+   P INTERFACE TRS3243ECPWR                                                     1  
+     TI TSSOP-28                                             BU17,               
+     MARKING:RS43EC/ym.../....
+    (06G019001010AK      )      GA           1.0000 16/07/05                     Y
+     RS232 TRANSCEIVER ST3243ECTR-E                                                
+     ST TSSOP-28/0 to 70度          
+     MARKING:ST3243EC/..... .....
+    (06G019001110AK      )      GA           1.0000 16/07/05                     Y
+     RS232 TRANSCEIVER MAX3243ECPWR                                             1  
+     TI/TSSOP-28                    
+     MARKING:MP243EC/ym.../....
+ 270 06G015007010AK             GA PCS       1.0000 16/07/06               S NY
+   P INTERFACE PCA9617ADPJ TSSOP-8                                              1  
+     NXP/I2C 0.8V LV BUS REPEATER                            U8L1,               
+     MARKING:P617A/.. ../yww
+    (06G015010010AK      )      GA           1.0000 16/07/05                     Y
+     INTERFACE TCA9617ADGKR VSSOP-8                                             1  
+     TI/Fm+ I2C-BUS/0.8V TO 5.5V    
+     MARKING:TI ym/DWK
+ 290 06G018004010AK             GA PCS       1.0000 16/08/22                 NY
+   P DC/DC CONVERTER RT8059GJ5                                                  3  
+     RICHTEK TSOT-23-5                                       PTU7,               
+     MARKING:BQ=...
+ 310 06G018011010AK             GA PCS       5.0000 16/08/03                 NY
+   P STEP-DOWN CON. MP2143DJ-LF-Z                                               1  
+     MPS TSOT23-8/2.5V~6V/3A                                 PU44,PU48,PU49,PU6, 
+     MARKING:lACEy                                           PU9,                
+ 320 06G018043010AK             GA PCS       2.0000 16/07/06                 NY
+   P STEP-DOWN CONVERTER MP2145GD-Z                                             1  
+     MPS/QFN-12(2*3)/2.8V~5.5V/6A                            PU47,PU8,           
+     MARKING:AFVy/...
+ 330 06G018054010AK             GA PCS       3.0000 16/07/06                 NY
+   P STEP-DOWN CON. MPQ8633BGLE-Z                                                  
+     MPS/QFN-21(3*4)/20A                                     PU10,PU11,PU12,     
+     MARKING:MPyw/8633/B.../E
+ 340 06G018055010AK             GA PCS       1.0000 16/07/06                 NY
+   P STEP-DOWN CON. MP1475SGJ-Z                                                    
+     MPS/TSOT23-8/3A/4.5-16V                                 PU13,               
+     MARKING:IAMXy
+ 350 06G071001010AK             GA PCS       1.0000 16/07/06                 NY
+   P H/W MONITOR W83773G TSSOP-8                                                3  
+     NUVOTON/TEMP.SENSOR                                     BU9,                
+     MARKING:773G/.../yww.
+ 360 06G107004011AK             GA PCS       1.0000 16/07/06                 NY
+   P TRANSLATOR 74AVCH8T245PW                                                      
+     NXP/TSSOP24/8-BIT/BUS HOLD                              U2R1,               
+     MARKING:AVCH8T245/........./...yyww.
+ 370 06G113130080AK             GA PCS       2.0000 16/07/06                 NY
+   P PWM CONTROLLER IR35201MTRPBF                                                  
+     IR/QFN-56(7*7)/8PHASE/R04                               PU1,PU4,            
+     MARKING:IR/35201/.yww./.....
+ 380 07G001001612               GA PCS      10.0000 16/07/06               S NN
+   P DIODE 1N4148W-A2-L    SOD-123                                                 
+     PANJIT                  <G>                             AD3,BD1,BD11,BD13,  
+     MARKING:A2                                              BD16,BD8,BD9,D12,   
+                                                             D5624,D5626,        
+     QVL:強茂,
+    (07G001330011AK      )      GA          10.0000 16/07/05                     Y
+     DIODE CD4148WSP (0805)                                                        
+     CROWNPO                        
+     MARKING:Cathode arrow
+ 400 07G003000110               GA PCS       6.0000 16/08/03               S NN
+   P TRASIS. PMBS3904         SOT23                                                
+     PHILIPS,NPN                <G>                          BQ4,Q18,Q2,Q6,TQ1,  
+     MARKING:.04/ym                                          TQ2,                
+     QVL:飛利浦,
+    (07G003002010AK      )      GA           6.0000 16/07/05                     Y
+     TRANSIS. MMBT3904       SOT-23                                                
+     PANJIT NPN                     
+     MARKING:S1A
+    (07G003000210AK      )      GA           6.0000 16/07/05                     Y
+     TRASIS. MMBT3904-7-F    SOT-23                                                
+     DIODES,NPN,COPPER              
+     MARKING:.1N
+ 410 07G003001120               GA PCS       1.0000 16/08/03               S NN
+   P TRASIS. PMBS3906        SOT-23                                                
+     PHILIPS                    <G>                          BQ17,               
+     MARKING:X06
+     QVL:飛利浦,
+    (07G003001210AK      )      GA           1.0000 16/08/03                     Y
+     TRASIS. MMBT3906-7-F    SOT-23                                                
+     DIODES/COPPER                  
+     MARKING:.3N
+ 420 07G004051611               GA PCS       3.0000 16/07/06               S NN
+   P SCHOTTKY BAT54C         SOT-23                                                
+     PHILIPS                <G>                              PD5,PD6,PD7,        
+     MARKING:L43 or .W1/ym
+     QVL:飛利浦,
+    (07G004051730        )      GA           3.0000 16/07/05                     N
+     SCHOTTKY BAT54C-L      SOT-23                                                 
+     PANJIT                         
+     MARKING:L43
+     QVL:強茂,
+    (07G004051010AK      )      GA           3.0000 16/07/05                     Y
+     SCHOTTKY BAT54C-7-F     SOT-23                                                
+     DIODES/COPPER                  
+     MARKING:.L3
+ 430 07G004203013               GA PCS       1.0000 16/07/06               S NN
+   P SCHOTTKY BAS40CW-L     SOT-323                                                
+     PANJIT                                                  CR4N1,              
+     MARKING:S43
+     QVL:強茂,
+    (07G004022010AK      )      GA           1.0000 16/07/05                     Y
+     SCHOTTKY BAS40W-05-7-F SOT-323                                                
+     DIODES/COPPER                  
+     MARKING:K45
+ 460 07G005000B12AK             GA PCS      23.0000 16/08/22               S  Y
+   P N-MOSFET 2N7002K  SOT-23                                                      
+     PANJIT                                                  BQ1,BQ12,BQ13,BQ14, 
+     MARKING:K72                                             BQ16,BQ18,BQ2,BQ3,  
+                                                             BQ5,BQ6,BQ7,NVQ4,   
+                                                             OQ4,PQ30,PQ41,PQ46, 
+                                                             PQ52,PQ57,Q15,Q19,  
+                                                             Q3,Q5,QBMC5,        
+    (07G005668312        )      GA          23.0000 16/07/05                     Y
+     N-MOSFET 2N7002BK SOT23                                                       
+     NXP                            
+     MARKING:LNW
+    (07G005924011AK      )      GA          23.0000 16/07/05                     Y
+     N-MOSFET DMN601K-7 SOT-23                                                     
+     DIODES/COPPER                  
+     MARKING:.7K
+ 470 07G005035210AK             GA PCS       2.0000 16/07/06                 NY
+   P P-MOS SM2337PSAC-TRG SOT-23-3                                              3  
+     SINOPOWER/-20V/-5.5A/34mohm                             OQ3,PQ55,           
+     MARKING:M37.(if D/C<1415);B37..(if D/C>=1415)
+ 480 07G005043110AK             GA PCS      12.0000 16/07/06               S NY
+   P N-MOSFET 2N7002KDW SOT-363                                                    
+     PANJIT/60V/+-20V/115mA/3ohm                             PQ36,PQ43,PQ44,PQ49,
+     MARKING:K27                                             PQ51,Q1,Q2B2,U6746, 
+                                                             U6747,U6748,U6749,  
+                                                             U6750,              
+    (07G005043010AK      )      GA          12.0000 16/07/05                     Y
+     N-MOSFET 2N7002BKS      SOT363                                                
+     NXP                            
+     MARKING:ZTt
+ 490 07G005057010AK             GA PCS       5.0000 16/07/06                 NY
+   P DUAL N-MOS CSD87350Q5D                                                        
+     TI/SON-8 5*6/5+1.2mohm@5V                               PQ2,PQ3,PQ4,PQ5,PQ6,
+     MARKING:87350D/TI .../.... ..
+ 500 07G005105010AK             GA PCS       2.0000 16/07/11               S NY
+   P N-MOS SM4336NSKPC-TRG DFN5*6                                                  
+     SINOPOWER 30V/5.3mohn/65A/ESD                           PQ29,PQ54,          
+     MARKING:SM4336/Cym..
+    (07G005144010AK      )      GA           2.0000 16/07/11                     Y
+     N-MOS AP4024GEMT-HF PMPAK5x6                                                  
+     APEC/30V/+-20V/60A/4.5mohm/ESD 
+     MARKING:4024GEMT/yww...
+ 510 07G005117020AK             GA PCS       2.0000 16/07/06                 NY
+   P P-MOS SM4301PSKPC-TRG DFN5*6-8                                             3  
+     SINOPOWER/-30V/6.4mohm/-25A                             PQ35,PQ45,          
+     MARKING:SM4301/.....
+ 520 07G005142010AK             GA PCS       4.0000 16/07/06                 NY
+   P P-MOSFET SM3331PSQGC-TRG                                                   3  
+     SINOPOWER/DFN3.3x3.3-8/-30V                             PQ32,PQ40,PQ50,PQ56,
+     MARKING:SM/3331/.....
+ 540 07G005154010AK             GA PCS       1.0000 16/07/06                 NY
+   P P-MOS SM3337PSQGC-TRG DFN3x3-8                                             3  
+     SINOPOWER/-30V/-32A/19mohm                              PQ53,               
+     MARKING:SM/3337/.....
+ 560 07G005649011AK             GA PCS       3.0000 16/07/11               S NY
+   P N-MOSFET AP2318GEN SOT-23S                                                 1  
+     APEC/30V/500mA/1.5ohm                                   PQ31,PQ42,Q16,      
+     MARKING:NM..
+    (07G005649010        )      GA           3.0000 16/07/11                     N
+     N-MOSFET AP2318GEN      SOT-23                                                
+     APEC                           
+     MARKING:NMXX
+     QVL:富鼎先進,
+ 570 07G008702400AK             GA PCS       1.0000 16/07/06                 NY
+   P OSC 24MHZ 3.3V/3.2*2.5*1.2mm                                               1  
+     FUJICOM/FCO-336B 24.000000MBA                           OSC1,               
+     MARKING:F24.00/33B..
+ 580 07G008702501AK             GA PCS       1.0000 16/07/06                 NY
+   P OSC 25MHZ SMD 3.3V 15PF/50PPM                                                 
+     FUJICOM/FCO-336B 25.000000MBA                           U6743,              
+     MARKING:F25.00/33Bym
+ 590 07G008705000AK             GA PCS       1.0000 16/07/06               S NY
+   P OSC 50MHZ SMD 3.3V 15PF/50PPM                                                 
+     FUJICOM/FCO-536B 50.000000MBA                           BOSC1,              
+     MARKING:50.000/F536B ..
+    (07G008005000AK      )      GA           1.0000 16/07/05                     Y
+     OSC 50MHZ SMD 3.3V/15PF/+-50PP                                                
+     TXC/7C50002001/5*3.2mm         
+     MARKING:TXC 50.0/B....
+ 600 07G010303271AK             GA PCS       1.0000 16/07/06                 NY
+   P XTAL 32.768KHZ SMD 12.5PF/20PP                                                
+     CITIZEN/CM315D32768DZFT 0.9mm                           Y5D1,               
+     MARKING:ym...(y=year,m=month(1~9,X,Y,Z))
+ 610 07G010722500AK             GA PCS       2.0000 16/07/11               S NY
+   P XTAL 25.000MHZ SMD 12PF/30PPM                                                 
+     FUJICOM/FSX3M 25.000000M12FAQ                           BGX1,GX1,           
+     MARKING:25.000/Fcom..
+    (07G010002510AK      )      GA           2.0000 16/07/05                     Y
+     XTAL 25MHZ SMD/12PF/+-30PPM                                                   
+     TXC/7M25000069/3.2*2.5mm       
+     MARKING:T250/....
+ 630 07G014002000AK             GA PCS       1.0000 16/07/06               S NY
+   P POLYSWITCH  0805  SPR-P175                                                    
+     PTTC 1.75A/ 6V/ 0.063ohm                                F1,                 
+     MARKING:PT
+    (07G014002100AK      )      GA           1.0000 16/07/05                     Y
+     POLYSWITCH  0805L175ULYR                                                      
+     LITTELFUSE/1.75A/6V/0.063ohm   
+     MARKING:-V
+ 640 07G014260101AK             GA PCS       2.0000 16/07/06               S NY
+   P POLYSWITCH  0805  SPR-P260T                                                   
+     PTTC 2.6A/ 6V/ 0.035ohm                                 U3F1,U3F2,          
+     MARKING:PU
+    (07G014260201AK      )      GA           2.0000 16/07/05                     Y
+     POLYSWITCH  0805L260ULTHYR                                                    
+     LITTELFUSE/2.6A/6V/0.035ohm    
+     MARKING:-S
+ 650 07G015L00030AK             GA PCS       4.0000 16/07/06               S NY
+   P LED SMD 0603 ULTRA BRIGHT RED                                                 
+     HARVATEK/HT-193USD/615-635nm                            CPU1_FAN1_LED1,     
+                                                             FRNT_FAN1_LED1,     
+                                                             FRNT_FAN2_LED1,     
+                                                             REAR_FAN1_LED1,     
+    (07G015N00220AK      )      GA           4.0000 16/07/05                     Y
+     LED SMD 0603 ULTRA BRIGHT RED                                                 
+     LIGITEK/LG-192-8SRF-CT/630nm   
+ 660 07G015L00121               GA PCS       2.0000 16/07/06               S NN
+   P LED SMD 0603 YELLOW GREEN                                                     
+     HARVATEK/HT-191UYG/570-577nm                            BMC_LED1,SB_PWR1,   
+     QVL:宏齊,
+    (07G015N00085        )      GA           2.0000 16/07/05                     N
+     LED SMD 0603 GREEN                                                            
+     LIGITEK/LG-192-9UG-CT/574nm    
+ 670 07G022012000AK             GA PCS       1.0000 16/07/06               S NY
+   P TVS DIODE PTVS12VS1UR SOD123W                                              1  
+     NXP/12V/400W                                            PD1,                
+     MARKING:AC/...
+    (07G022012100AK      )      GA           1.0000 16/07/05                     Y
+     TVS DIODE AZ4012-01G SOD-123                                               3  
+     AMAZING/12V                    
+     MARKING:p.
+ 680 07G028075010               GA PCS       2.0000 16/07/06               S NN
+   P ESD PROTECTION IP4223-CZ6                                                     
+     NXP SOT-457                                             UD1,UD8,            
+     MARKING:21...
+    (07G022006330        )      GA           2.0000 16/07/05                     Y
+     TVS ARRAY 6V/5A SOT23-6                                                       
+     AOS/AOZ8902CIL <HF>            
+     MARKING:AG../..
+    (07G028069010AK      )      GA           2.0000 16/07/05                     Y
+     ESD PROTECTION AZC099-04S.R7G                                                 
+     AMAZING/SOT-23-6L/COPPER/15KV  
+     MARKING:C96..(DC>=1420)
+ 690 09G012030100AK             GA PCS       2.0000 16/07/06               S NY
+   P FERRITE BEAD SMD(0805)30OHM/6A                                                
+     MAXECHO/BCMS201209A300                                  PL26,PL28,          
+    (09G012030101AK      )      GA           2.0000 16/07/05                     Y
+     FERRITE BEAD SMD(0805)30OHM/6A                                                
+     CHILISIN/UPB201209T-300Y-N     
+ 710 09G013030000AK             GA PCS       9.0000 16/08/03               S NY
+   P FERRITE BEAD(0603)30OHM 5A                                                    
+     CHILSIN/UPB160808T-300Y-N5A                             PL11,PL14,PL24,PL47,
+                                                             PL59,PL61,PL63,PL65,
+                                                             PL9,                
+    (09G013030001AK      )      GA           9.0000 16/07/05                     Y
+     FERRITE BEAD(0603)30OHM 5A                                                    
+     SPORTON/LCB1608K-300T50        
+    (09G013030002AK      )      GA           9.0000 16/07/05                     Y
+     FERRITE BEAD(0603)30OHM 5A                                                    
+     MAXECHO/BCMS160808A300RDC01 5A 
+ 720 09G013060500               GA PCS       2.0000 16/07/06               S NN
+   P FERRITE BEAD(0603)60OHM/500mA                                                 
+     MURATA/BLM18PG600SN1D      <G>                          BL3,BL6,            
+     QVL:村田,
+    (09G01306050A        )      GA           2.0000 16/07/05                     N
+     FERRITE BEAD (0603)60OHM/1A                                                   
+     MAXECHO/ACMS160808A600 1A  <G> 
+     QVL:鈺鎧,
+ 730 09G013120112               GA PCS       1.0000 16/07/06               S NN
+   P FERRITE BEAD(0603)120OHM/600mA                                                
+     MAXECHO/EBMS160808A121 0.6A<G>                          BL1,                
+     QVL:鈺鎧,鈺鎧,
+    (09G013120103        )      GA           1.0000 16/07/05                     N
+     FERRITE BEAD(0603)120OHM/600mA                                                
+     CHILISIN/GBK160808T-121Y-S <G> 
+     QVL:奇力新,
+ 740 09G01C120303               GA PCS       8.0000 16/07/06               S NN
+   P FERRITE BEAD(0402)120OHM/500mA                                                
+     MAXECHO/EBMS100505A121 0.5A                             BL2,BL4,BL5,L1,L2,  
+                                                             L3,L5,L6,           
+     QVL:鈺鎧,
+    (09G01C120104        )      GA           8.0000 16/07/05                     N
+     FERRITE BEAD(0402)120OHM/500mA                                             2  
+     MURATA/BLM15AG121SN1D          
+     QVL:村田,村田,
+ 750 09G022221000AK             GA PCS       1.0000 16/08/03                 NY
+   P INDUCTOR 22nH/1.9A(0805) 5%                                                   
+     MURATA/LQW2BAN22NJ00L                                   L4,                 
+ 770 09G023471300AK             GA PCS       3.0000 16/07/06               S NY
+   P INDUCTOR 0.047UH/400mA(0603)5%                                                
+     CHILISIN/CLH1608T-47NJ-S                                BL7,BL8,BL9,        
+    (09G023471400AK      )      GA           3.0000 16/07/05                     Y
+     INDUCTOR 0.047UH/600mA(0603)5%                                                
+     MAXECHO/HBLS1608-47NJ 0.6A     
+ 780 09G023560000AK             GA PCS       1.0000 16/08/03                 NY
+   P INDUCTOR 5.6nH/750mA (0603)                                                   
+     MURATA/LQW18AN5N6C00D/T:0.2nH                           L7,                 
+ 790 09G028473400               GA PCS       1.0000 16/07/06               S NN
+   P INDUCTOR 4.7UH/675mA(1210)10%                                                 
+     CHILISIN/NLC322522T-4R7K-N                              L8,                 
+     QVL:奇力新,
+    (09G028473401        )      GA           1.0000 16/07/05                     Y
+     INDUCTOR 4.7UH/650mA(1210)20%                                                 
+     MURATA/LQH32CN4R7M53L          
+ 810 09G02D333001AK             GA PCS       2.0000 16/08/22               S NY
+   P INDUCTOR 3.3UH/1.8A (1212) 20%                                                
+     SPORTON/LQH3015PF-3R3M-C                                PL13,U3L8,          
+    (09G02D333000AK      )      GA           2.0000 16/07/05                     Y
+     INDUCTOR 3.3UH/1.5A (1212) 20%                                                
+     CHILISIN/LVF303015-3R3M-N      
+ 820 09G02X102100AK             GA PCS       3.0000 16/07/06               S NY
+   P INDUCTOR 0.1UH/22A SMD 20%                                                    
+     CYNTEC/PCMB042T-R10MS                                   PL30,PL4,PL7,       
+    (09G02X102101AK      )      GA           3.0000 16/08/22                     Y
+     INDUCTOR 0.1UH/22A SMD 20%                                                    
+     MAGLAYERS/MMD-04BZ-R10M-X2     
+ 840 09G02X103400AK             GA PCS       6.0000 16/08/03                 NY
+   P PWR CHOKE 1UH/4.5A SMD 20%                                                    
+     CYNTEC/PCMB042T-1R0MS                                   PL10,PL25,PL48,PL54,
+                                                             PL56,PL60,          
+ 850 09G02X222100AK             GA PCS       3.0000 16/07/06               S NY
+   P PWR CHOKE 0.22UH/60A SMD                                                      
+     MAGIC/SI2C100709-R22L-R22                               PL1,PL2,PL5,        
+    (09G02X222101AK      )      GA           3.0000 16/07/05                     Y
+     PWR CHOKE 0.22UH/60A SMD                                                      
+     SPORTON/SEPI100709M-R22L       
+ 860 09G02X332400               GA PCS       2.0000 16/07/06               S NY
+   P INDUCTOR 0.33UH/20A SMD 20%                                                   
+     CYNTEC/PCMC063T-R33MN                                   PL3,PL8,            
+    (09G02X332500        )      GA           2.0000 16/07/05                     Y
+     INDUCTOR 0.33UH/20A SMD 20%                                                   
+     MAG.LAYERS/MMD-06CZ-R33M-V1    
+ 870 09G02X472200AK             GA PCS       3.0000 16/07/06               S NY
+   P INDUCTOR 0.47UH/17.5A SMD 20%                                                 
+     CYNTEC/PCMC063T-R47MN                                   PL23,PL27,PL29,     
+    (09G02X472201AK      )      GA           3.0000 16/07/05                     Y
+     INDUCTOR 0.47UH/17.5A SMD 20%                                                 
+     MAG.LAYERS/MMD-06CZ-R47M-V1A   
+ 880 09G02X472400AK             GA PCS       1.0000 16/07/06               S NY
+   P PWR CHOKE 0.47UH/7A SMD 20%                                                   
+     CYNTEC/PCMB042T-R47MS                                   PL12,               
+    (09G02X472401AK      )      GA           1.0000 16/07/05                     Y
+     PWR CHOKE 0.47UH/7A SMD 20%                                                   
+     SPORTON/EMPI0402E-R47M-C       
+    (09G02X472402AK      )      GA           1.0000 16/07/05                     Y
+     PWR CHOKE 0.47UH/7A SMD 20%                                                   
+     CHILISIN/MHCI04020-R47M-R8     
+    (09G02X472403AK      )      GA           1.0000 16/07/05                     Y
+     PWR CHOKE 0.47UH/7A SMD 20%                                                   
+     MAGIC/WSRPG0402-R47M-AG        
+ 890 10G0941B1030               GA PCS       1.0000 16/07/06               S NY
+   P THERMISTOR 10K OHM (0402) 3%                                                  
+     MURATA/NCP15XH103E03RC                                  TRMBIN1,            
+    (10G0941B1031        )      GA           1.0000 16/07/05                     Y
+     THERMISTOR 10K OHM (0402) 3%                                                  
+     TKS/TSM0B103H3383HZ            
+ 900 10G0943B4730               GA PCS       7.0000 16/07/06               S NY
+   P THERMISTOR 47K OHM (0402) 3%                                                  
+     TKS/TSM0B473H4052RZ                                     TRVRGT5,TRVRGT6,    
+                                                             TRVRVC1,TRVRVC3,    
+                                                             TRVRVC4,TRVRVC5,    
+                                                             TRVRVC6,            
+    (10G0943B4732        )      GA           7.0000 16/07/11                     Y
+     THERMISTOR 47K OHM (0402) 3%                                                  
+     PANASONIC/ERTJ0EP473H          
+ 940 10G212000004010            GA PCS     196.0000 16/08/22               S NN
+   P RES 0 OHM 1/16W(0402)JUMP                                                     
+     TA-I/RM04JTN0                                           BGR13,BGR6,BR103,   
+                                                             BR104,BR106,BR107,  
+                                                             BR109,BR110,BR119,  
+                                                             BR120,BR148,BR149,  
+                                                             BR150,BR158,BR16,   
+                                                             BR2,BR229,BR230,    
+                                                             BR238,BR239,BR252,  
+                                                             BR253,BR32,BR377,   
+                                                             BR378,BR398,BR402,  
+                                                             BR403,BR413,BR414,  
+                                                             BR415,BR416,BR417,  
+                                                             BR418,BR420,BR52,   
+                                                             BR53,BR54,BR55,BR60,
+                                                             BR61,BR62,BR63,BR65,
+                                                             BR66,BR75,GR122,GR2,
+                                                             GR3,GR4,OR114,OR120,
+                                                             OR121,OR122,OR2,    
+                                                             OR42,OR43,OR44,OR48,
+                                                             OR54,PR20,PR2272,   
+                                                             PR2273,PR245,PR246, 
+                                                             PR290,PR383,PR385,  
+                                                             PR388,PR389,PR401,  
+                                                             PR402,PR414,PR421,  
+                                                             PR423,PR425,PR431,  
+                                                             PR437,PR438,PR443,  
+                                                             PR447,PR450,PR465,  
+                                                             PR468,PR471,PR476,  
+                                                             PR477,PR495,PR523,  
+                                                             PR528,R16,R26,R27,  
+                                                             R28,R29,R292,R293,  
+                                                             R30,R300,R301,R31,  
+                                                             R32,R324,R325,R326, 
+                                                             R327,R33,R34,R35,   
+                                                             R36,R37,R399,R422,  
+                                                             R436,R437,R438,R439,
+                                                             R440,R441,R442,R450,
+                                                             R452,R453,R454,R455,
+                                                             R456,R457,R458,R459,
+                                                             R460,R461,R462,R463,
+                                                             R464,R465,R466,R467,
+                                                             R487,R488,R496,R498,
+                                                             R501,R502,R521,R523,
+                                                             R562,R563,R564,     
+                                                             RBMC102,RBMC201,    
+                                                             RBMC202,RBMC203,    
+                                                             RG10,RG157,RG158,   
+                                                             RG159,RG160,RG161,  
+                                                             RG162,RG163,RG164,  
+                                                             RG174,RG175,RG176,  
+                                                             RG177,RG178,RG179,  
+                                                             RG180,RG181,RG182,  
+                                                             RG183,RG184,RG185,  
+                                                             RG186,RG187,RG188,  
+                                                             RG189,RG190,RG191,  
+                                                             RG192,RG193,RG194,  
+                                                             RG195,RG196,RG197,  
+                                                             RG2,RG30,RG7,RG8,   
+                                                             RG9,TPR1,TPR2,TPR3, 
+                                                             TPR4,TPR9,UR1,      
+     QVL:(C)大毅,大毅,
+    (10G212000004030     )      GA         196.0000 16/07/05                     N
+     RES 0 OHM 1/16W(0402)JUMP                                                     
+     YAGEO/RC0402JR-070RL      <G>  
+     QVL:(C)國巨,國巨,
+    (10G212000004070     )      GA         196.0000 16/07/05                     N
+     RES 0 OHM 1/16W(0402)JUMP                                                     
+     WALSIN/WR04X000PTL        <G>  
+     QVL:(C)華新科,華新科,
+ 950 10G212100004010            GA PCS       5.0000 16/07/06               S NN
+   P RES 10 OHM 1/16W (0402) 5%                                                 1  
+     TA-I/RM04JTN100            <G>                          BR157,BR269,BR284,  
+                                                             BR285,BR286,        
+     QVL:大毅,
+    (10G212100004031     )      GA           5.0000 16/07/05                     N
+     RES 10 OHM 1/16W (0402) 5%                                                    
+     YAGEO/RC0402JR-0710RL      <G> 
+     QVL:國巨,
+    (10G212100004070     )      GA           5.0000 16/07/05                     N
+     RES 10 OHM 1/16W (0402) 5%                                                    
+     WALSIN/WR04X100 JTL            
+     QVL:華新科,
+ 970 10G212100014010            GA PCS      16.0000 16/08/22               S NN
+   P RES 100 OHM 1/16W (0402) 1%                                                1  
+     TA-I/RM04FTN1000         <G>                            BPR1,BR315,BR316,   
+                                                             BR347,BR390,PR19,   
+                                                             PR242,PR243,PR244,  
+                                                             PR26,PR387,PR398,   
+                                                             PR424,R10,R11,R13,  
+    (10G212100014031     )      GA          16.0000 16/07/05                     N
+     RES 100 OHM 1/16W (0402)1%                                                 1  
+     YAGEO/RC0402FR-07100RL     <G> 
+     QVL:YAGEO,
+    (10G212100014070     )      GA          16.0000 16/07/05                     N
+     RES 100 OHM 1/16W (0402)1%                                                    
+     WALSIN/WR04X1000FTL            
+1000 10G212100114010            GA PCS      55.0000 16/08/22               S NN
+   P RES 1K OHM 1/16W(0402)1%                                                      
+     TA-I/RM04FTN1001<G>                                     BMCR10,BMCR11,      
+                                                             BMCR20,BMCR4,BMCR6, 
+                                                             BMCR7,BMCR8,BMCR9,  
+                                                             BR124,BR153,BR167,  
+                                                             BR168,BR242,BR243,  
+                                                             BR397,L3R1,MR11,    
+                                                             MR12,MR16,MR17,OR13,
+                                                             OR15,OR25,OR26,OR28,
+                                                             OR4,OR6,PR210,      
+                                                             PR2212,PR2274,      
+                                                             PR2275,PR2276,      
+                                                             PR2279,PR237,PR238, 
+                                                             PR253,PR254,PR312,  
+                                                             PR380,PR411,PR422,  
+                                                             PR448,PR451,R110,   
+                                                             R111,R112,R116,R117,
+                                                             R118,R413,R415,R524,
+                                                             R525,R526,R548,     
+     QVL:大毅,
+    (10G212100114030     )      GA          55.0000 16/07/05                     N
+     RES 1K OHM 1/16W(0402)1%                                                      
+     YAGEO/RC0402FR-071KL       <G> 
+     QVL:國巨,
+    (10G212100114070     )      GA          55.0000 16/07/05                     N
+     RES 1K OHM 1/16W(0402)1%                                                      
+     WALSIN/WR04X1001FTL        <G> 
+     QVL:華新科,
+1040 10G212100214010            GA PCS      45.0000 16/08/22               S NN
+   P RES 10K OHM 1/16W(0402)1%                                                     
+     TA-I/RM04FTN1002<G>                                     BPR39,BR231,BR232,  
+                                                             BR233,BR264,BR266,  
+                                                             NVR47,NVR49,OR32,   
+                                                             OR34,OR52,OR53,     
+                                                             PR212,PR2205,PR2209,
+                                                             PR2211,PR2215,      
+                                                             PR2216,PR2256,      
+                                                             PR2259,PR234,PR236, 
+                                                             PR239,PR241,PR252,  
+                                                             PR259,PR263,PR346,  
+                                                             PR409,PR441,PR506,  
+                                                             PR507,PR511,R2,R3,  
+                                                             R392,R397,R527,R543,
+                                                             R8E1,R9A1,R9A2,     
+                                                             RBMC242,RBMC263,    
+                                                             RP1402,             
+     QVL:大毅,
+    (10G212100214030     )      GA          45.0000 16/07/05                     N
+     RES 10K OHM 1/16W(0402)1%                                                     
+     YAGEO/RC0402FR-0710KL      <G> 
+     QVL:國巨,
+    (10G212100214070     )      GA          45.0000 16/07/05                     N
+     RES 10K OHM 1/16W(0402)1%                                                     
+     WALSIN/WR04X1002FTL        <G> 
+     QVL:WALSIN,
+1070 10G212100314010            GA PCS      12.0000 16/08/03               S NN
+   P RES 100K OHM 1/16W (0402) 1%                                               1  
+     TA-I/RM04FTN1003      <G>                               BMCR15,PR209,PR2214,
+                                                             PR2245,PR2247,      
+                                                             PR2252,PR2263,      
+                                                             PR2265,PR2285,PR258,
+                                                             PR501,PR601,        
+     QVL:大毅,
+    (10G212100314030     )      GA          12.0000 16/07/05                     N
+     RES 100K OHM 1/16W (0402)1%                                                1  
+     YAGEO/RC0402FR-07100KL     <G> 
+     QVL:國巨,
+    (10G212100314070     )      GA          12.0000 16/07/05                     N
+     RES 100K OHM 1/16W (0402) 1%                                                  
+     WALSIN/WR04X1003FTL            
+     QVL:華新科,
+1090 10G212101004010            GA PCS      10.0000 16/08/03               S NN
+   P RES 100 OHM 1/16W(0402)5%                                                  2a 
+     TA-I/RM04JTN101            <G>                          BR256,BR257,BR318,  
+                                                             BR335,BR350,BR384,  
+                                                             R15,R318,R321,      
+                                                             RBMC246,            
+     QVL:大毅,
+    (10G212101004030     )      GA          10.0000 16/07/05                     N
+     RES 100 OHM 1/16W (0402)  5%                                                  
+     YAGEO/RC0402JR-07100RL     <G> 
+     QVL:國巨,
+    (10G212101004070     )      GA          10.0000 16/07/05                     N
+     RES 100 OHM 1/16W(0402)5%                                                  2  
+     WALSIN/WR04X101JTL       <G>   
+     QVL:華新科,
+1100 10G212102004010            GA PCS      12.0000 16/07/06               S NN
+   P RES 1K OHM 1/16W(0402) 5%                                                     
+     TA-I/RM04JTN102            <G>                          BR263,BR278,BR279,  
+                                                             GR7,OR11,OR21,R406, 
+                                                             R407,R492,R494,R499,
+                                                             R4N1,               
+     QVL:大毅,
+    (10G212102004031     )      GA          12.0000 16/07/05                     N
+     RES 1K OHM 1/16W (0402)5%                                                     
+     YAGEO/RC0402JR-071KL     <G>   
+     QVL:國巨,
+    (10G212102004070     )      GA          12.0000 16/07/05                     N
+     RES 1K OHM 1/16W (0402) 5%                                                    
+     WALSIN/WR04X102 JTL            
+     QVL:華新科,
+1110 10G212102114010            GA PCS       3.0000 16/07/06               S NN
+   P RES 1.02K OHM 1/16W (0402) 1%                                                 
+     TA-I/RM04FTN1021                                        PR2249,PR295,PR428, 
+    (10G212102114031     )      GA           3.0000 16/07/05                     N
+     RES 1.02K OHM 1/16W (0402) 1%                                                 
+     YAGEO/RC0402FR-071K02L         
+    (10G212102114070     )      GA           3.0000 16/07/05                     N
+     RES 1.02K OHM 1/16W (0402) 1%                                                 
+     WALSIN/WR04X1021FTL            
+1130 10G212103004010            GA PCS      32.0000 16/08/03               S NN
+   P RES 10K OHM 1/16W (0402) 5%                                                1  
+     TA-I/RM04JTN103         <G>                             BR111,BR136,BR137,  
+                                                             BR138,BR139,BR144,  
+                                                             BR155,BR156,BR163,  
+                                                             BR251,BR270,BR305,  
+                                                             BR317,BR334,BR349,  
+                                                             BR383,BR57,PR125,   
+                                                             PR31,PR393,PR452,   
+                                                             PR461,R298,R310,    
+                                                             R317,R319,R320,R385,
+                                                             R479,R482,R485,R491,
+     QVL:大毅,
+    (10G212103004030     )      GA          32.0000 16/07/05                     N
+     RES 10K OHM 1/16W (0402) 5%                                                   
+     YAGEO/RC0402JR-0710KL    <G>   
+     QVL:國巨,
+    (10G212103004070     )      GA          32.0000 16/07/05                     N
+     RES 10K OHM 1/16W (0402) 5%                                                   
+     WALSIN/WR04X103 JTL            
+     QVL:華新科,
+1140 10G212104004010            GA PCS       1.0000 16/07/06               S NN
+   P RES 100K OHM 1/16W (0402) 5%                                               1  
+     TA-I/RM04JTN104         <G>                             BR1,                
+     QVL:大毅,
+    (10G212104004030     )      GA           1.0000 16/07/05                     N
+     RES 100K OHM 1/16W (0402) 5%                                                  
+     YAGEO/RC0402JR-07100KL     <G> 
+     QVL:國巨,
+    (10G212104004070     )      GA           1.0000 16/07/05                     N
+     RES 100K OHM 1/16W (0402) 5%                                               2  
+     WALSIN/WR04X104JTL <G>         
+     QVL:華新科,
+1160 10G212105114010            GA PCS       2.0000 16/08/24               S NN
+   P RES 1.05K OHM 1/16W(0402) 1%                                                  
+     TA-I/RM04FTN1051                                        PR288,PR289,        
+    (10G212105114031     )      GA           2.0000 16/07/06                     N
+     RES 1.05K OHM 1/16W (0402)1%                                                  
+     YAGEO/RC0402FR-071K05L         
+    (10G212105114070     )      GA           2.0000 16/07/06                     N
+     RES 1.05K OHM 1/16W (0402) 1%                                                 
+     WALSIN/WR04X1051FTL            
+1170 10G212106004010            GA PCS       2.0000 16/07/06               S NN
+   P RES 10M OHM 1/16W (0402) 5%                                                1  
+     TA-I/RM04JTN106         <G>                             R295,R5D6,          
+    (10G212106004030     )      GA           2.0000 16/07/05                     N
+     RES 10M OHM 1/16W(0402)5%                                                  1  
+     YAGEO/RC0402JR-0710ML      <G> 
+     QVL:YAGEO,
+    (10G212106004070     )      GA           2.0000 16/07/05                     N
+     RES 10M OHM 1/16W(0402)5%                                                     
+     WALSIN/WR04X106JTL             
+1180 10G21210R014010            GA PCS       2.0000 16/07/06               S NN
+   P RES 10 OHM 1/16W (0402) 1%                                                 1  
+     TA-I/RM04FTN10R0         <G>                            BR379,BR380,        
+     QVL:大毅,
+    (10G21210R014030     )      GA           2.0000 16/07/05                     N
+     RES 10 OHM 1/16W (0402) 1%                                                 1  
+     YAGEO/RC0402FR-0710RL     <G>  
+     QVL:國巨,
+    (10G21210R014070     )      GA           2.0000 16/07/05                     N
+     RES 10 OHM 1/16W (0402) 1%                                                    
+     WALSIN/WR04X10R0FTL            
+     QVL:華新科,
+1190 10G212110114010            GA PCS       1.0000 16/07/06               S NN
+   P RES 1.1K OHM 1/16W(0402)1%                                                    
+     TA-I/RM04FTN1101                                        BMCR2,              
+    (10G212110114030     )      GA           1.0000 16/07/05                     N
+     RES 1.1K OHM 1/16W(0402)1%                                                 2  
+     YAGEO/RC0402FR-071K1L          
+    (10G212110114070     )      GA           1.0000 16/07/05                     N
+     RES 1.1K OHM 1/16W (0402) 1%                                                  
+     WALSIN/WR04X1101FTL            
+1200 10G212110214010            GA PCS       1.0000 16/07/06               S NN
+   P RES 11K OHM 1/16W (0402) 1%                                                1  
+     TA-I/RM04FTN1102        <G>                             BPR40,              
+    (10G212110214030     )      GA           1.0000 16/07/05                     N
+     RES 11K OHM 1/16W (0402)1%                                                 1  
+     YAGEO/RC0402FR-0711KL     <G>  
+    (10G212110214070     )      GA           1.0000 16/07/05                     N
+     RES 11K OHM 1/16W(0402)1%                                                     
+     WALSIN/WR04X1102FTL            
+1210 10G212113014010            GA PCS       1.0000 16/07/06               S NY
+   P RES 113 OHM 1/16W (0402) 1%                                                   
+     TA-I/RM04FTN1130                                        R12,                
+    (10G212113014030     )      GA           1.0000 16/07/05                     N
+     RES 113 OHM 1/16W (0402) 1%                                                   
+     YAGEO/RC0402FR-07113RL         
+    (10G212113014070     )      GA           1.0000 16/07/05                     Y
+     RES 113 OHM 1/16W (0402) 1%                                                   
+     WALSIN/WR04X1130FTL            
+1220 10G212113314010            GA PCS       1.0000 16/07/06               S NY
+   P RES 113K OHM 1/16W(0402) 1%                                                   
+     TA-I/RM04FTN1133                                        PR603,              
+    (10G212113314030     )      GA           1.0000 16/07/05                     Y
+     RES 113K OHM 1/16W(0402) 1%                                                   
+     YAGEO/RC0402FR-07113KL         
+    (10G212113314070     )      GA           1.0000 16/07/05                     Y
+     RES 113K OHM 1/16W(0402) 1%                                                   
+     WALSIN/WR04X1133FTL            
+1230 10G212115114010            GA PCS       1.0000 16/07/06               S NN
+   P RES 1.15K OHM 1/16W (0402) 1%                                              1  
+     TA-I/RM04FTN1151          <G>                           BMCR5,              
+     QVL:TA-I,
+    (10G212115114030     )      GA           1.0000 16/07/05                     N
+     RES 1.15K OHM 1/16W(0402)1%                                                1  
+     YAGEO/RC0402FR-071K15L    <G>  
+     QVL:YAGEO,
+    (10G212115114070     )      GA           1.0000 16/07/05                     N
+     RES 1.15K OHM 1/16W (0402) 1%                                                 
+     WALSIN/WR04X1151FTL            
+1240 10G212120014010            GA PCS      57.0000 16/07/06               S NN
+   P RES 120 OHM 1/16W (0402) 1%                                                   
+     TA-I/RM04FTN1200      <G>                               BR169,BR170,BR171,  
+                                                             BR172,BR173,BR174,  
+                                                             BR175,BR176,BR177,  
+                                                             BR178,BR179,BR180,  
+                                                             BR181,BR182,BR183,  
+                                                             BR184,BR185,BR186,  
+                                                             BR187,BR188,BR189,  
+                                                             BR190,BR191,BR192,  
+                                                             BR193,BR194,BR195,  
+                                                             BR196,BR197,BR198,  
+                                                             BR199,BR200,BR201,  
+                                                             BR202,BR203,BR204,  
+                                                             BR205,BR206,BR207,  
+                                                             BR208,BR209,BR210,  
+                                                             BR211,BR212,BR213,  
+                                                             BR214,BR215,BR216,  
+                                                             BR217,BR218,BR219,  
+                                                             BR220,BR221,BR222,  
+                                                             BR223,PR251,R304,   
+    (10G212120014031     )      GA          57.0000 16/07/05                     N
+     RES 120 OHM 1/16W (0402)1%                                                 1  
+     YAGEO/RC0402FR-07120RL     <G> 
+     QVL:YAGEO,
+    (10G212120014070     )      GA          57.0000 16/07/05                     N
+     RES 120 OHM 1/16W (0402)1%                                                    
+     WALSIN/WR04X1200FTL            
+1250 10G212120114010            GA PCS       1.0000 16/08/24               S NN
+   P RES 1.2K OHM 1/16W (0402) 1%                                               1  
+     TA-I/RM04FTN1201           <G>                          PR420,              
+     QVL:大毅,
+    (10G212120114030     )      GA           1.0000 16/08/24                     N
+     RES 1.2K OHM 1/16W (0402) 1%                                               1  
+     YAGEO/RC0402FR-071K2L      <G> 
+     QVL:國巨,
+    (10G212120114070     )      GA           1.0000 16/08/24                     N
+     RES 1.2K OHM 1/16W (0402) 1%                                                  
+     WALSIN/WR04X1201FTL            
+     QVL:華新科,
+1260 10G212120314010            GA PCS       1.0000 16/07/06               S NN
+   P RES 120K OHM 1/16W (0402) 1%                                               1  
+     TA-I/RM04FTN1203          <G>                           PR602,              
+    (10G212120314030     )      GA           1.0000 16/07/05                     N
+     RES 120K OHM 1/16W (0402) 1%                                               1  
+     YAGEO/RC0402FR-07120KL     <G> 
+    (10G212120314070     )      GA           1.0000 16/07/05                     N
+     RES 120K OHM 1/16W (0402) 1%                                                  
+     WALSIN/WR04X1203FTL            
+1270 10G212130214010            GA PCS       5.0000 16/07/06               S NN
+   P RES 13K OHM 1/16W(0402)1%                                                     
+     TA-I/RM04FTN1302                                        PR285,PR352,PR381,  
+                                                             PR435,PR440,        
+    (10G212130214030     )      GA           5.0000 16/07/05                     N
+     RES 13K OHM 1/16W (0402) 1%                                                   
+     YAGEO/RC0402FR-0713KL          
+    (10G212130214070     )      GA           5.0000 16/07/05                     N
+     RES 13K OHM 1/16W (0402) 1%                                                   
+     WALSIN/WR04X1302FTL            
+1280 10G212150014010            GA PCS       7.0000 16/07/06               S NN
+   P RES 150 OHM 1/16W (0402) 1%                                                1  
+     TA-I/RM04FTN1500        <G>                             BR140,BR141,BR142,  
+                                                             BR272,BR274,BR276,  
+                                                             R2R4,               
+     QVL:TA-I,
+    (10G212150014030     )      GA           7.0000 16/07/05                     N
+     RES 150 OHM 1/16W (0402)1%                                                 1  
+     YAGEO/RC0402FR-07150RL     <G> 
+     QVL:國巨,
+    (10G212150014070     )      GA           7.0000 16/07/05                     N
+     RES 150 OHM 1/16W (0402) 1%                                                   
+     WALSIN/WR04X1500FTL            
+1290 10G212150114010            GA PCS       4.0000 16/07/06               S NN
+   P RES 1.5K OHM 1/16W (0402)1%                                                   
+     TA-I/RM04FTN1501        <G>                             BR145,PR474,PR514,  
+     MARKING:TA-I/RM04FTN1501                                RG23,               
+     QVL:TA-I,
+    (10G212150114030     )      GA           4.0000 16/07/05                     N
+     RES 1.5K OHM 1/16W (0402)1%                                                1  
+     YAGEO/RC0402FR-071K5L          
+    (10G212150114070     )      GA           4.0000 16/07/05                     N
+     RES 1.5K OHM 1/16W (0402)1%                                                   
+     WALSIN/WR04X1501FTL            
+1310 10G212150214010            GA PCS       2.0000 16/08/22               S NN
+   P RES 15K OHM 1/16W (0402) 1%                                                1  
+     TA-I/RM04FTN1502         <G>                            R311,R384,          
+     QVL:TA-I,
+    (10G212150214030     )      GA           2.0000 16/07/05                     N
+     RES 15K OHM 1/16W(0402)1%                                                  1  
+     YAGEO/RC0402FR-0715KL      <G> 
+    (10G212150214070     )      GA           2.0000 16/07/05                     N
+     RES 15K OHM 1/16W(0402)1%                                                     
+     WALSIN/WR04X1502FTL            
+1320 10G212150314010            GA PCS       1.0000 16/07/06               S NN
+   P RES 150K OHM 1/16W(0402)1%                                                    
+     TA-I/RM04FTN1503                                        PR2253,             
+    (10G212150314031     )      GA           1.0000 16/07/05                     N
+     RES 150K OHM 1/16W (0402)1%                                                1  
+     YAGEO/RC0402FR-07150KL         
+    (10G212150314070     )      GA           1.0000 16/07/05                     N
+     RES 150K OHM 1/16W (0402)1%                                                   
+     WALSIN/WR04X1503FTL            
+1330 10G212162214010            GA PCS       2.0000 16/07/06               S NN
+   P RES 16.2K OHM 1/16W (0402) 1%                                                 
+     TA-I/RM04FTN1622                                        PR429,PR459,        
+    (10G212162214030     )      GA           2.0000 16/07/05                     N
+     RES 16.2K OHM 1/16W (0402) 1%                                                 
+     YAGEO/RC0402FR-0716K2L         
+    (10G212162214070     )      GA           2.0000 16/07/05                     Y
+     RES 16.2K OHM 1/16W (0402) 1%                                                 
+     WALSIN/WR04X1622FTL            
+1340 10G212169014010            GA PCS       1.0000 16/07/06               S NN
+   P RES 169 OHM 1/16W (0402) 1%                                                1  
+     TA-I/RM04FTN1690         <G>                            R14,                
+     QVL:TA-I,
+    (10G212169014030     )      GA           1.0000 16/07/05                     N
+     RES 169 OHM 1/16W (0402)1%                                                    
+     YAGEO/RC0402FR-07169RL     <G> 
+     QVL:國巨,
+    (10G212169014070     )      GA           1.0000 16/07/05                     N
+     RES 169 OHM 1/16W (0402) 1%                                                   
+     WALSIN/WR04X1690FTL            
+1350 10G212178214010            GA PCS       6.0000 16/07/06               S NY
+   P RES 17.8K OHM 1/16W (0402) 1%                                                 
+     TA-I/RM04FTN1782                                        PR399,PR400,RPGT22, 
+                                                             RPGT9,RPGT95,RPGT96,
+    (10G212178214030     )      GA           6.0000 16/07/05                     Y
+     RES 17.8K OHM 1/16W (0402) 1%                                                 
+     YAGEO/RC0402FR-0717K8L         
+    (10G212178214070     )      GA           6.0000 16/07/05                     Y
+     RES 17.8K OHM 1/16W (0402) 1%                                                 
+     WALSIN/WR04X1782FTL            
+1360 10G212180214010            GA PCS       1.0000 16/07/06               S NY
+   P RES 18K OHM 1/16W (0402) 1%                                                   
+     TA-I/RM04FTN1802                                        BR165,              
+    (10G212180214030     )      GA           1.0000 16/07/05                     Y
+     RES 18K OHM 1/16W (0402) 1%                                                   
+     YAGEO/RC0402FR-0718KL          
+    (10G212180214070     )      GA           1.0000 16/07/05                     Y
+     RES 18K OHM 1/16W (0402) 1%                                                   
+     WALSIN/WR04X1802FTL            
+1370 10G212200014010            GA PCS       3.0000 16/07/06               S NN
+   P RES 200 OHM 1/16W (0402) 1%                                                1  
+     TA-I/RM04FTN2000          <G>                           BR3,PR247,PR415,    
+     QVL:大毅,
+    (10G212200014030     )      GA           3.0000 16/07/05                     N
+     RES 200 OHM 1/16W (0402) 1%                                                1  
+     YAGEO/RC0402FR-07200RL     <G> 
+     QVL:國巨,
+    (10G212200014070     )      GA           3.0000 16/07/05                     N
+     RES 200 OHM 1/16W (0402) 1%                                                   
+     WALSIN/WR04X2000FTL            
+     QVL:華新科,
+1380 10G212200114010            GA PCS       7.0000 16/07/06               S NN
+   P RES 2K OHM 1/16W (0402)1%                                                  2  
+     TA-I/RM04FTN2001                                        BMCR1,PR305,PR377,  
+                                                             PR405,PR407,PR475,  
+                                                             PR531,              
+    (10G212200114030     )      GA           7.0000 16/07/05                     N
+     RES 2K OHM 1/16W (0402)1%                                                  2  
+     YAGEO/RC0402FR-072KL      <G>  
+    (10G212200114070     )      GA           7.0000 16/07/05                     N
+     RES 2K OHM 1/16W(0402)1%                                                      
+     WALSIN/WR04X2001FTL            
+1400 10G212200214010            GA PCS       6.0000 16/07/12               S NN
+   P RES 20K OHM 1/16W (0402) 1%                                                1  
+     TA-I/RM04FTN2002           <G>                          OR31,PR2226,PR2246, 
+                                                             PR413,RPGT13,RPGT97,
+     QVL:TA-I,
+    (10G212200214030     )      GA           6.0000 16/07/05                     N
+     RES 20K OHM 1/16W (0402) 1%                                                1  
+     YAGEO/RC0402FR-0720KL     <G>  
+    (10G212200214070     )      GA           6.0000 16/07/05                     N
+     RES 20K OHM 1/16W (0402) 1%                                                   
+     WALSIN/WR04X2002FTL            
+1410 10G212200314010            GA PCS       7.0000 16/07/06               S NN
+   P RES 200K OHM 1/16W (0402) 1%                                               1  
+     TA-I/RM04FTN2003          <G>                           BR152,PR207,PR2213, 
+                                                             PR2262,PR2267,PR235,
+                                                             PR500,              
+     QVL:大毅,
+    (10G212200314030     )      GA           7.0000 16/07/05                     N
+     RES 200K OHM 1/16W (0402) 1%                                               1  
+     YAGEO/RC0402FR-07200KL     <G> 
+     QVL:國巨,
+    (10G212200314070     )      GA           7.0000 16/07/05                     N
+     RES 200K OHM 1/16W (0402) 1%                                                  
+     WALSIN/WR04X2003FTL            
+     QVL:華新科,
+1420 10G212201004010            GA PCS       1.0000 16/07/06               S NN
+   P RES 200 OHM 1/16W (0402) 5%                                                1  
+     TA-I/RM04JTN201            <G>                          R3M5,               
+     QVL:大毅,
+    (10G212201004031     )      GA           1.0000 16/07/05                     N
+     RES 200 OHM 1/16W (0402)5%                                                    
+     YAGEO/RC0402JR-07200RL    <G>  
+     QVL:國巨,
+    (10G212201004070     )      GA           1.0000 16/07/05                     N
+     RES 200 OHM 1/16W (0402)5%                                                 2  
+     WALSIN/WR04X201JTL       <G>   
+     QVL:華新科,
+1430 10G212203004010            GA PCS       2.0000 16/07/06               S NN
+   P RES 20K OHM 1/16W (0402) 5%                                                1  
+     TA-I/RM04JTN203            <G>                          R3M3,R3M6,          
+    (10G212203004030     )      GA           2.0000 16/07/05                     N
+     RES 20K OHM 1/16W (0402) 5%                                                1  
+     YAGEO/RC0402JR-0720KL      <G> 
+    (10G212203004070     )      GA           2.0000 16/07/05                     N
+     RES 20K OHM 1/16W (0402) 5%                                                   
+     WALSIN/WR04X203 JTL            
+1440 10G21220R014010            GA PCS       1.0000 16/07/06               S NN
+   P RES 20 OHM 1/16W (0402) 1%                                                 1  
+     TA-I/RM04FTN20R0           <G>                          PR2242,             
+    (10G21220R014030     )      GA           1.0000 16/07/05                     N
+     RES 20 OHM 1/16W (0402) 1%                                                 1  
+     YAGEO/RC0402FR-0720RL      <G> 
+    (10G21220R014070     )      GA           1.0000 16/07/05                     N
+     RES 20 OHM 1/16W (0402) 1%                                                    
+     WALSIN/WR04X20R0FTL            
+1450 10G212220004010            GA PCS      26.0000 16/07/06               S NN
+   P RES 22 OHM 1/16W (0402) 5%                                                 1  
+     TA-I/RM04JTN220            <G>                          BGR1,BGR2,BGR3,BGR4,
+                                                             BGR5,BR34,BR35,BR36,
+                                                             BR37,BR38,BR39,BR40,
+                                                             BR41,BR42,BR43,BR44,
+                                                             BR45,BR46,BR47,BR48,
+                                                             BR49,BR50,BR51,R306,
+                                                             R307,RG1,           
+     QVL:大毅,
+    (10G212220004031     )      GA          26.0000 16/07/05                     N
+     RES 22 OHM 1/16W (0402) 5%                                                    
+     YAGEO/RC0402JR-0722RL      <G> 
+     QVL:國巨,
+    (10G212220004070     )      GA          26.0000 16/07/05                     N
+     RES 22 OHM 1/16W(0402)5%                                                      
+     WALSIN/WR04X220JTL             
+     QVL:華新科,
+1460 10G212220014010            GA PCS       1.0000 16/07/06               S NN
+   P RES 220 OHM 1/16W (0402) 1%                                                1  
+     TA-I/RM04FTN2200           <G>                          R302,               
+    (10G212220014030     )      GA           1.0000 16/07/05                     N
+     RES 220 OHM 1/16W (0402) 1%                                                1  
+     YAGEO/RC0402FR-07220RL     <G> 
+    (10G212220014070     )      GA           1.0000 16/07/05                     N
+     RES 220 OHM 1/16W (0402) 1%                                                   
+     WALSIN/WR04X2200FTL            
+1470 10G212220114010            GA PCS       1.0000 16/07/06               S NN
+   P RES 2.2K OHM 1/16W (0402) 1%                                               1  
+     TA-I/RM04FTN2201          <G>                           PR432,              
+    (10G212220114030     )      GA           1.0000 16/07/05                     N
+     RES 2.2K OHM 1/16W (0402) 1%                                               1  
+     YAGEO/RC0402FR-072K2L     <G>  
+    (10G212220114070     )      GA           1.0000 16/07/05                     N
+     RES 2.2K OHM 1/16W (0402) 1%                                               1  
+     WALSIN/WR04X2201FTL            
+1480 10G212220214010            GA PCS       1.0000 16/07/06               S NN
+   P RES 22K OHM 1/16W (0402) 1%                                                1  
+     TA-I/RM04FTN2202           <G>                          PR2202,             
+    (10G212220214030     )      GA           1.0000 16/07/05                     N
+     RES 22K OHM 1/16W (0402) 1%                                                1  
+     YAGEO/RC0402FR-0722KL      <G> 
+    (10G212220214070     )      GA           1.0000 16/07/05                     N
+     RES 22K OHM 1/16W (0402) 1%                                                   
+     WALSIN/WR04X2202FTL            
+1490 10G212222004010            GA PCS      12.0000 16/07/06               S NN
+   P RES 2.2K OHM 1/16W (0402) 5%                                               1  
+     TA-I/RM04JTN222           <G>                           BR112,BR113,BR114,  
+                                                             BR115,BR116,BR117,  
+                                                             BR118,BR411,R2B1,   
+                                                             R476,R477,R478,     
+     QVL:TA-I,
+    (10G212222004031     )      GA          12.0000 16/07/05                     N
+     RES 2.2K OHM 1/16W (0402) 5%                                                  
+     YAGEO/RC0402JR-072K2L      <G> 
+    (10G212222004070     )      GA          12.0000 16/07/05                     N
+     RES 2.2K OHM 1/16W (0402) 5%                                                  
+     WALSIN/WR04X222 JTL            
+1500 10G212223004010            GA PCS       1.0000 16/08/03               S NN
+   P RES 22K OHM 1/16W(0402)5%                                                     
+     TA-I/RM04JTN223            <G>                          BR425,              
+     MARKING:TA-I /M04JTN223
+    (10G212223004031     )      GA           1.0000 16/08/03                     N
+     RES 22K OHM 1/16W (0402) 5%                                                   
+     YAGEO/RC0402JR-0722KL     <G>  
+    (10G212223004070     )      GA           1.0000 16/08/03                     N
+     RES 22K OHM 1/16W (0402) 5%                                                   
+     WALSIN/WR04X223 JTL            
+1520 10G212240014010            GA PCS       3.0000 16/08/03               S NN
+   P RES 240 OHM 1/16W (0402) 1%                                                   
+     TA-I/RM04FTN2400                                        BMR1,BR25,R557,     
+    (10G212240014030     )      GA           3.0000 16/07/05                     N
+     RES 240 OHM 1/16W (0402) 1%                                                   
+     YAGEO/RC0402FR-07240RL         
+    (10G212240014070     )      GA           3.0000 16/07/05                     N
+     RES 240 OHM 1/16W (0402) 1%                                                   
+     WALSIN/WR04X2400FTL            
+1530 10G212240214010            GA PCS       1.0000 16/07/06               S NN
+   P RES 24K OHM 1/16W(0402)1%                                                     
+     TA-I/RM04FTN2402                                        PR379,              
+    (10G212240214030     )      GA           1.0000 16/07/05                     N
+     RES 24K OHM 1/16W (0402) 1%                                                2  
+     YAGEO/RC0402FR-0724KL          
+     MARKING:2402
+    (10G212240214070     )      GA           1.0000 16/07/05                     N
+     RES 24K OHM 1/16W(0402)1%                                                     
+     WALSIN/WR04X2402FTL            
+1540 10G212241004010            GA PCS       1.0000 16/07/06               S NN
+   P RES 240 OHM 1/16W (0402) 5%                                                   
+     TA-I/RM04JTN241                                         R431,               
+    (10G212241004030     )      GA           1.0000 16/07/05                     N
+     RES 240 OHM 1/16W (0402) 5%                                                1  
+     YAGEO/RC0402JR-07240RL         
+    (10G212241004070     )      GA           1.0000 16/07/05                     N
+     RES 240 OHM 1/16W (0402) 5%                                                   
+     WALSIN/WR04X241 JTL            
+1550 10G212249114010            GA PCS       2.0000 16/07/06               S NN
+   P RES 2.49K OHM 1/16W (0402) 1%                                              1  
+     TA-I/RM04FTN2491          <G>                           RG12,RG13,          
+    (10G212249114030     )      GA           2.0000 16/07/05                     N
+     RES 2.49K OHM 1/16W (0402) 1%                                              1  
+     YAGEO/RC0402FR-072K49L     <G> 
+    (10G212249114070     )      GA           2.0000 16/07/05                     N
+     RES 2.49K OHM 1/16W (0402) 1%                                                 
+     WALSIN/WR04X2491FTL            
+1560 10G212270114010            GA PCS       1.0000 16/07/06               S NN
+   P RES 2.7K OHM 1/16W (0402)1%                                                   
+     TA-I/RM04FTN2701                                        PR2207,             
+    (10G212270114030     )      GA           1.0000 16/07/05                     N
+     RES 2.7K OHM 1/16W(0402)1%                                                    
+     YAGEO/RC0402FR-072K7L          
+    (10G212270114070     )      GA           1.0000 16/07/05                     N
+     RES 2.7K OHM 1/16W(0402)1%                                                    
+     WALSIN/WR04X2701FTL            
+1580 10G212272004010            GA PCS      38.0000 16/08/03               S NN
+   P RES 2.7K OHM 1/16W (0402)5%                                                   
+     TA-I/RM04JTN272                                         BR424,BR426,BR427,  
+                                                             MR10,MR13,MR14,MR15,
+                                                             MR18,MR19,MR20,     
+                                                             NVR48,OR51,R390,R4, 
+                                                             R423,R426,R474,R475,
+                                                             R480,R481,R483,R484,
+                                                             R5,R530,R531,R532,  
+                                                             R533,R534,R535,R536,
+                                                             R537,R539,R554,R555,
+                                                             R556,R6,R7,R8,      
+    (10G212272004030     )      GA          38.0000 16/07/05                     N
+     RES 2.7K OHM 1/16W(0402)5%                                                    
+     YAGEO/RC0402JR-072K7L      <G> 
+    (10G212272004070     )      GA          38.0000 16/07/05                     N
+     RES 2.7K OHM 1/16W(0402)5%                                                    
+     WALSIN/WR04X272 JTL            
+1590 10G212280214010            GA PCS       1.0000 16/07/06               S NN
+   P RES 28K OHM 1/16W (0402)1%                                                 2  
+     TA-I/RM04FTN2802                                        PR378,              
+    (10G212280214031     )      GA           1.0000 16/07/05                     N
+     RES 28K OHM 1/16W(0402)1%                                                     
+     YAGEO RC0402FR-0728KL          
+    (10G212280214071     )      GA           1.0000 16/07/05                     N
+     RES 28K OHM 1/16W (0402) 1%                                                2  
+     WALSIN/WR04X2802FTL            
+1600 10G212300114010            GA PCS       6.0000 16/07/06               S NN
+   P RES 3K OHM 1/16W (0402) 1%                                                    
+     TA-I/RM04FTN3001                                        PR2280,PR2281,      
+                                                             PR2282,PR515,PR521, 
+                                                             PR526,              
+    (10G212300114030     )      GA           6.0000 16/07/05                     N
+     RES 3K OHM 1/16W (0402) 1%                                                    
+     YAGEO/RC0402FR-073KL           
+    (10G212300114070     )      GA           6.0000 16/07/05                     N
+     RES 3K OHM 1/16W (0402) 1%                                                    
+     WALSIN/WR04X3001FTL            
+     MARKING:此料無需marking
+1610 10G212300214010            GA PCS       1.0000 16/07/12               S NN
+   P RES 30K OHM 1/16W (0402) 1%                                                   
+     TA-I/RM04FTN3002                                        PR2224,             
+     QVL:TA-I,
+    (10G212300214030     )      GA           1.0000 16/07/12                     N
+     RES 30K OHM 1/16W (0402) 1%                                                   
+     YAGEO/RC0402FR-0730KL          
+    (10G212300214070     )      GA           1.0000 16/07/12                     N
+     RES 30K OHM 1/16W (0402) 1%                                                   
+     WALSIN/WR04X3002FTL            
+1620 10G212304004010            GA PCS       1.0000 16/07/06               S NN
+   P RES 300K OHM 1/16W (0402) 5%                                                  
+     TA-I/ RM04JTN304                                        PR2268,             
+     QVL:大毅,
+    (10G212304004030     )      GA           1.0000 16/07/05                     N
+     RES 300K OHM 1/16W (0402) 5%                                                  
+     YAGEO/RC0402JR-07300KL         
+     QVL:國巨,
+    (10G212304004070     )      GA           1.0000 16/07/05                     N
+     RES 300K OHM 1/16W (0402) 5%                                                  
+     WALSIN/WR04X304 JTL            
+     QVL:華新科,
+1630 10G212330004010            GA PCS       6.0000 16/07/06               S NN
+   P RES 33 OHM 1/16W(0402) 5%                                                     
+     TA-I/RM04JTN330          <G>                            BR159,BR160,BR161,  
+                                                             BR162,BR164,R486,   
+     QVL:大毅,
+    (10G212330004031     )      GA           6.0000 16/07/05                     N
+     RES 33 OHM 1/16W (0402)5%                                                     
+     YAGEO/RC0402JR-0733RL      <G> 
+     QVL:國巨,
+    (10G212330004070     )      GA           6.0000 16/07/05                     N
+     RES 33 OHM 1/16W (0402) 5%                                                    
+     WALSIN/WR04X330 JTL            
+     QVL:華新科,
+1640 10G212330114010            GA PCS       2.0000 16/07/06               S NN
+   P RES 3.3K OHM 1/16W (0402) 1%                                                  
+     TA-I/RM04FTN3301                                        BR373,BR374,        
+    (10G212330114030     )      GA           2.0000 16/07/05                     N
+     RES 3.3K OHM 1/16W (0402) 1%                                                  
+     YAGEO/RC0402FR-073K3L          
+     MARKING:3301
+    (10G212330114070     )      GA           2.0000 16/07/05                     N
+     RES 3.3K OHM 1/16W(0402)1%                                                    
+     WALSIN/WR04X3301FTL            
+1650 10G212331004010            GA PCS      15.0000 16/07/06               S NN
+   P RES 330 OHM 1/16W (0402) 5%                                                1  
+     TA-I/RM04JTN331           <G>                           BR12,BR13,BR14,BR15,
+                                                             BR319,BR320,GR114,  
+                                                             GR115,GR118,GR119,  
+                                                             L2R58,L2R62,L2R63,  
+                                                             L2R64,R285,         
+    (10G212331004030     )      GA          15.0000 16/07/05                     N
+     RES 330 OHM 1/16W (0402) 5%                                                   
+     YAGEO/RC0402JR-07330RL    <G>  
+    (10G212331004070     )      GA          15.0000 16/07/05                     N
+     RES 330 OHM 1/16W (0402) 5%                                                   
+     WALSIN/WR04X331 JTL            
+1670 10G212332004010            GA PCS      16.0000 16/08/22               S NN
+   P RES 3.3K OHM 1/16W(0402)5%                                                    
+     TA-I/RM04JTN332                                         BR105,BR108,BR396,  
+                                                             BR429,BR68,BR69,    
+                                                             BR73,BR83,BR88,BR89,
+                                                             BR90,BR91,BR93,BR94,
+                                                             BR97,BR98,          
+    (10G212332004031     )      GA          16.0000 16/07/05                     N
+     RES 3.3K OHM 1/16W (0402) 5%                                                  
+     YAGEO/RC0402JR-073K3L    <G>   
+    (10G212332004070     )      GA          16.0000 16/07/05                     N
+     RES 3.3K OHM 1/16W (0402) 5%                                                  
+     WALSIN/WR04X332JTL             
+1690 10G212332214010            GA PCS       1.0000 16/07/06               S NN
+   P RES 33.2K OHM 1/16W (0402) 1%                                                 
+     TA-I/RM04FTN3322                                        PR2254,             
+    (10G212332214030     )      GA           1.0000 16/07/05                     N
+     RES 33.2K OHM 1/16W(0402)1%                                                   
+     YAGEO/RC0402FR-0733K2L         
+    (10G212332214070     )      GA           1.0000 16/07/05                     N
+     RES 33.2K OHM 1/16W (0402) 1%                                                 
+     WALSIN/WR04X3322FTL            
+1710 10G21233R014010            GA PCS       8.0000 16/08/03               S NN
+   P RES 33 OHM 1/16W (0402) 1%                                                 1  
+     TA-I/RM04FTN33R0          <G>                           BR26,BR27,BR28,BR29,
+                                                             BR30,BR31,BR33,     
+                                                             BR428,              
+     QVL:大毅,
+    (10G21233R014030     )      GA           8.0000 16/07/05                     N
+     RES 33 OHM 1/16W (0402) 1%                                                 1  
+     YAGEO/RC0402FR-0733RL     <G>  
+     QVL:國巨,
+    (10G21233R014070     )      GA           8.0000 16/07/05                     N
+     RES 33 OHM 1/16W (0402) 1%                                                    
+     WALSIN/WR04X33R0FTL            
+     QVL:華新科,
+1720 10G212390014010            GA PCS       2.0000 16/07/06               S NN
+   P RES 390 OHM 1/16W (0402) 1%                                                   
+     TA-I/RM04FTN3900                                        PR479,PR90,         
+    (10G212390014030     )      GA           2.0000 16/07/05                     N
+     RES 390 OHM 1/16W (0402) 1%                                                1  
+     YAGEO/RC0402FR-07390RL         
+    (10G212390014070     )      GA           2.0000 16/07/05                     N
+     RES 390 OHM 1/16W (0402) 1%                                                   
+     WALSIN/WR04X3900FTL            
+1730 10G212392014010            GA PCS       1.0000 16/07/06               S NN
+   P RES 392 OHM 1/16W (0402) 1%                                                   
+     TA-I/RM04FTN3920                                        R297,               
+    (10G212392014030     )      GA           1.0000 16/07/05                     N
+     RES 392 OHM 1/16W (0402) 1%                                                   
+     YAGEO/RC0402FR-07392RL         
+    (10G212392014070     )      GA           1.0000 16/07/05                     N
+     RES 392 OHM 1/16W(0402)1%                                                     
+     WALSIN/WR04X3920FTL            
+1740 10G212392214010            GA PCS       2.0000 16/07/06               S NN
+   P RES 39.2K OHM 1/16W (0402) 1%                                              1  
+     TA-I/RM04FTN3922         <G>                            PR325,PR456,        
+     QVL:TA-I,
+    (10G212392214031     )      GA           2.0000 16/07/05                     N
+     RES 39.2K OHM 1/16W (0402) 1%                                              1  
+     YAGEO/RC0402FR-0739K2L    <G>  
+    (10G212392214070     )      GA           2.0000 16/07/05                     N
+     RES 39.2K OHM 1/16W (0402) 1%                                                 
+     WALSIN/WR04X3922FTL            
+1760 10G212472004010            GA PCS      81.0000 16/08/03               S NN
+   P RES 4.7K OHM 1/16W (0402) 5%                                               1  
+     TA-I/RM04JTN472           <G>                           BR10,BR11,BR121,    
+                                                             BR123,BR125,BR128,  
+                                                             BR130,BR131,BR132,  
+                                                             BR134,BR22,BR23,    
+                                                             BR24,BR244,BR245,   
+                                                             BR248,BR267,BR268,  
+                                                             BR280,BR281,BR282,  
+                                                             BR283,BR307,BR308,  
+                                                             BR310,BR312,BR321,  
+                                                             BR322,BR323,BR324,  
+                                                             BR325,BR326,BR327,  
+                                                             BR328,BR329,BR330,  
+                                                             BR339,BR342,BR387,  
+                                                             BR389,BR4,BR423,BR5,
+                                                             BR6,BR7,BR8,BR9,    
+                                                             GR116,GR117,GR120,  
+                                                             GR8,NVR46,OR118,OR8,
+                                                             PR260,PR261,PR262,  
+                                                             PR397,PR426,PR442,  
+                                                             R2B2,R2B4,R507,R508,
+                                                             R509,R510,R511,R512,
+                                                             RG11,RG14,RG16,RG18,
+                                                             RG20,RG22,RG24,RG25,
+                                                             RG26,RG28,RG3,RG4,  
+                                                             XR122,              
+     QVL:大毅,
+    (10G212472004030     )      GA          81.0000 16/07/05                     N
+     RES 4.7K OHM 1/16W(0402) 5%                                                   
+     YAGEO/RC0402JR-074K7L     <G>  
+     QVL:國巨,
+    (10G212472004070     )      GA          81.0000 16/07/05                     N
+     RES 4.7K OHM 1/16W(0402) 5%                                                2  
+     WALSIN/WR04X472 JTL            
+     QVL:華新科,
+1770 10G212473004010            GA PCS       3.0000 16/07/06               S NN
+   P RES 47K OHM 1/16W (0402) 5%                                                1  
+     TA-I/RM04JTN473         <G>                             BR154,BR258,BR259,  
+    (10G212473004031     )      GA           3.0000 16/07/05                     N
+     RES 47K OHM 1/16W (0402)5%                                                    
+     YAGEO/RC0402JR-0747KL     <G>  
+    (10G212473004070     )      GA           3.0000 16/07/05                     N
+     RES 47K OHM 1/16W(0402)5%                                                     
+     WALSIN/WR04X473JTL             
+1780 10G212499114010            GA PCS       7.0000 16/07/06               S NN
+   P RES 4.99K OHM 1/16W(0402)1%                                                   
+     TA-I/RM04FTN4991<G>                                     GR9,OR35,PR319,     
+                                                             PR382,PR436,PR478,  
+                                                             PR513,              
+    (10G212499114030     )      GA           7.0000 16/07/05                     N
+     RES 4.99K OHM 1/16W(0402)1%                                                   
+     YAGEO/RC0402FR-074K99L     <G> 
+    (10G212499114070     )      GA           7.0000 16/07/05                     N
+     RES 4.99K OHM 1/16W(0402)1%                                                   
+     WALSIN/WR04X4991FTL        <G> 
+1800 10G212499214010            GA PCS       2.0000 16/08/22               S NN
+   P RES 49.9K OHM 1/16W (0402)1%                                               2  
+     TA-I/RM04FTN4992                                        BR166,PR211,        
+    (10G212499214030     )      GA           2.0000 16/07/05                     N
+     RES 49.9K OHM 1/16W (0402)1%                                               2  
+     YAGEO/RC0402FR-0749K9L         
+    (10G212499214070     )      GA           2.0000 16/07/05                     N
+     RES 49.9K OHM 1/16W (0402)1%                                                  
+     WALSIN/WR04X4992FTL    <G>     
+     MARKING:WALSIN/ WR04X4992FTL
+1820 10G212499314010            GA PCS       5.0000 16/08/03               S NN
+   P RES 499K OHM 1/16W (0402) 1%                                                  
+     TA-I/RM04FTN4993                                        PR2251,PR2264,      
+                                                             PR2288,PR502,PR600, 
+    (10G212499314030     )      GA           5.0000 16/07/05                     N
+     RES 499K OHM 1/16W (0402)1%                                                   
+     YAGEO/RC0402FR-07499KL         
+    (10G212499314070     )      GA           5.0000 16/07/05                     N
+     RES 499K OHM 1/16W(0402) 1%                                                   
+     WALSIN/WR04X4993FTL            
+1830 10G21249R914010            GA PCS       4.0000 16/07/06               S NN
+   P RES 49.9 OHM 1/16W(0402) 1%                                                   
+     TA-I/RM04FTN49R9          <G>                           PR250,R2R1,R305,    
+                                                             R322,               
+     QVL:大毅,
+    (10G21249R914030     )      GA           4.0000 16/07/05                     N
+     RES 49.9 OHM 1/16W(0402)1%                                                 1  
+     YAGEO/RC0402FR-0749R9L    <G>  
+     QVL:國巨,
+    (10G21249R914070     )      GA           4.0000 16/07/05                     N
+     RES 49.9 OHM 1/16W(0402)1%                                                    
+     WALSIN/WR04X49R9FTL            
+     QVL:華新科,
+1840 10G2124R9914010            GA PCS       2.0000 16/07/06               S NN
+   P RES 4.99 OHM 1/16W (0402) 1%                                                  
+     TA-I/RM04FTN4R99                                        PR248,PR416,        
+    (10G2124R9914030     )      GA           2.0000 16/07/05                     N
+     RES 4.99 OHM 1/16W (0402) 1%                                                  
+     YAGEO/RC0402FR-074R99L         
+    (10G2124R9914070     )      GA           2.0000 16/07/05                     N
+     RES 4.99 OHM 1/16W (0402) 1%                                                  
+     WALSIN/WR04W4R99FTL            
+1870 10G212510114010            GA PCS       2.0000 16/08/23               S NN
+   P RES 5.1K OHM 1/16W (0402) 1%                                               1  
+     TA-I/RM04FTN5101         <G>                            BMCR19,OR36,        
+     QVL:大毅,
+    (10G212510114030     )      GA           2.0000 16/07/05                     N
+     RES 5.1K OHM 1/16W (0402) 1%                                               1  
+     YAGEO/RC0402FR-075K1L     <G>  
+     QVL:國巨,國巨,
+    (10G212510114070     )      GA           2.0000 16/07/05                     N
+     RES 5.1K OHM 1/16W (0402) 1%                                                  
+     WALSIN/WR04X5101FTL            
+     QVL:華新科,
+1880 10G212511004010            GA PCS       2.0000 16/07/06               S NN
+   P RES 510 OHM 1/16W(0402)5%                                                  2  
+     TA-I/RM04JTN511                                         BGR12,RG31,         
+     QVL:大毅,
+    (10G212511004030     )      GA           2.0000 16/07/05                     N
+     RES 510 OHM 1/16W (0402)5%                                                 1  
+     YAGEO/RC0402-JR-07510RL        
+     QVL:國巨,
+    (10G212511004070     )      GA           2.0000 16/07/05                     N
+     RES 510 OHM 1/16W(0402)5%                                                     
+     WALSIN/WR04X511JTL             
+     QVL:WALSIN,
+1890 10G212560214010            GA PCS       1.0000 16/07/06               S NN
+   P RES 56K OHM 1/16W (0402) 1%                                                1  
+     TA-I/RM04FTN5602          <G>                           OR33,               
+    (10G212560214030     )      GA           1.0000 16/07/05                     N
+     RES 56K OHM 1/16W (0402) 1%                                                1  
+     YAGEO/RC0402FR-0756KL    <G>   
+    (10G212560214070     )      GA           1.0000 16/07/05                     N
+     RES 56K OHM 1/16W (0402) 1%                                                   
+     WALSIN/WR04X5602FTL            
+1910 10G212562004010            GA PCS       4.0000 16/07/06               S NN
+   P RES 5.6K OHM 1/16W (0402) 5%                                               2  
+     TA-I/RM04JTN562                                         BR338,BR352,BR385,  
+                                                             BR386,              
+    (10G212562004030     )      GA           4.0000 16/07/05                     N
+     RES 5.6K OHM 1/16W (0402)5%                                                1  
+     YAGEO/RC0402JR-075K6L          
+    (10G212562004070     )      GA           4.0000 16/07/05                     N
+     RES 5.6K OHM 1/16W (0402)5%                                                   
+     WALSIN/WR04X562 JTL            
+1920 10G212590114010            GA PCS       1.0000 16/07/06               S NN
+   P RES 5.9K OHM 1/16W (0402) 1%                                                  
+     TA-I/RM04FTN5901                                        PR2250,             
+    (10G212590114030     )      GA           1.0000 16/07/05                     N
+     RES 5.9K OHM 1/16W (0402) 1%                                               1  
+     YAGEO/RC0402FR-075K9L          
+    (10G212590114070     )      GA           1.0000 16/07/05                     N
+     RES 5.9K OHM 1/16W (0402) 1%                                                  
+     WALSIN/WR04X5901FTL            
+1930 10G212604214010            GA PCS       1.0000 16/07/06               S NN
+   P RES 60.4K OHM 1/16W (0402) 1%                                                 
+     TA-I/RM04FTN6042       <G>                              PR444,              
+    (10G212604214030     )      GA           1.0000 16/07/05                     N
+     RES 60.4K OHM 1/16W (0402) 1%                                                 
+     YAGEO/RC0402FR-0760K4L    <G>  
+    (10G212604214070     )      GA           1.0000 16/07/05                     N
+     RES 60.4K OHM 1/16W (0402)1%                                                  
+     WALSIN/WR04X6042FTL            
+1940 10G212681114010            GA PCS       1.0000 16/07/06               S NN
+   P RES 6.81K OHM 1/16W(0402)1%                                                1  
+     TA-I/RM04FTN6811           <G>                          PR529,              
+    (10G212681114030     )      GA           1.0000 16/07/05                     N
+     RES 6.81K OHM 1/16W (0402) 1%                                              1  
+     YAGEO/RC0402FR-076K81L <G>     
+    (10G212681114070     )      GA           1.0000 16/07/05                     N
+     RES 6.81K OHM 1/16W(0402)1%                                                   
+     WALSIN/WR04X6811FTL            
+1950 10G212698014010            GA PCS       2.0000 16/07/06               S NN
+   P RES 698 OHM 1/16W (0402) 1%                                                   
+     TA-I/RM04FTN6980                                        PR439,PR89,         
+    (10G212698014030     )      GA           2.0000 16/07/05                     N
+     RES 698 OHM 1/16W (0402) 1%                                                   
+     YAGEO/RC0402FR-07698RL         
+    (10G212698014070     )      GA           2.0000 16/07/05                     N
+     RES 698 OHM 1/16W (0402) 1%                                                   
+     WALSIN/WR04X6980FTL            
+1960 10G212698114010            GA PCS       1.0000 16/07/06               S NN
+   P RES 6.98K OHM 1/16W (0402) 1%                                                 
+     TA-I/RM04FTN6981                                        PR524,              
+    (10G212698114030     )      GA           1.0000 16/07/05                     N
+     RES 6.98K OHM 1/16W (0402) 1%                                                 
+     YAGEO/RC0402FR-076K98L         
+    (10G212698114070     )      GA           1.0000 16/07/05                     N
+     RES 6.98K OHM 1/16W (0402) 1%                                                 
+     WALSIN/WR04X6981FTL            
+1980 10G212750114010            GA PCS       2.0000 16/08/23               S NN
+   P RES 7.5K OHM 1/16W (0402) 1%                                                  
+     TA-I/RM04FTN7501                                        PR445,PR457,        
+    (10G212750114030     )      GA           2.0000 16/07/05                     N
+     RES 7.5K OHM 1/16W(0402)1%                                                    
+     YAGEO/RC0402FR-077K5L          
+    (10G212750114070     )      GA           2.0000 16/07/05                     N
+     RES 7.5K OHM 1/16W(0402)1%                                                    
+     WALSIN/WR04X7501FTL            
+1990 10G212750214010            GA PCS       1.0000 16/07/06               S NN
+   P RES 75K OHM 1/16W (0402) 1%                                                1  
+     TA-I/RM04FTN7502       <G>                              PR208,              
+    (10G212750214030     )      GA           1.0000 16/07/05                     N
+     RES 75K OHM 1/16W (0402) 1%                                                1  
+     YAGEO/RC0402FR-0775KL    <G>   
+    (10G212750214070     )      GA           1.0000 16/07/05                     N
+     RES 75K OHM 1/16W (0402) 1%                                                   
+     WALSIN/WR04X7502FTL            
+2010 10G21275R014010            GA PCS       1.0000 16/08/03               S NN
+   P RES 75 OHM 1/16W(0402) 1%                                                     
+     TA-I/RM04FTN75R0       <G>                              R2R8,               
+     QVL:TA-I,
+    (10G21275R014030     )      GA           1.0000 16/07/05                     N
+     RES 75 OHM 1/16W (0402)1%                                                  1  
+     YAGEO/RC0402FR-0775RL     <G>  
+     QVL:YAGEO,
+    (10G21275R014070     )      GA           1.0000 16/07/05                     N
+     RES 75 OHM 1/16W (0402)1%                                                     
+     WALSIN/WR04X75R0FTL            
+     QVL:華新,
+2020 10G212806214010            GA PCS       1.0000 16/08/03               S NN
+   P RES 80.6K OHM 1/16W (0402) 1%                                                 
+     TA-I/RM04FTN8062                                        PR2287,             
+     QVL:大毅,
+    (10G212806214030     )      GA           1.0000 16/08/03                     N
+     RES 80.6K OHM 1/16W (0402)1%                                                  
+     YAGEO/RC0402FR-0780K6L         
+     QVL:國巨,
+    (10G212806214070     )      GA           1.0000 16/08/03                     N
+     RES 80.6K OHM 1/16W (0402)1%                                                  
+     WALSIN/WR04X8062FTL            
+     QVL:華新科,
+2030 10G212820114010            GA PCS      11.0000 16/07/06               S NN
+   P RES 8.2K OHM 1/16W (0402) 1%                                                  
+     TA-I/RM04FTN8201                                        BR146,BR147,PR178,  
+                                                             PR179,PR2258,PR2270,
+                                                             PR2271,PR2283,      
+                                                             PR2284,PR508,R529,  
+    (10G212820114030     )      GA          11.0000 16/07/05                     N
+     RES 8.2K OHM 1/16W (0402)1%                                                   
+     YAGEO/RC0402FR-078K2L          
+    (10G212820114070     )      GA          11.0000 16/07/05                     N
+     RES 8.2K OHM 1/16W (0402)1%                                                   
+     WALSIN/WR04X8201FTL            
+2050 10G212822004010            GA PCS       5.0000 16/08/03               S NN
+   P RES 8.2K OHM 1/16W (0402) 5%                                                  
+     TA-I/RM04JTN822         <G>                             OR119,OR40,OR5,OR50,
+     MARKING:TA-I /M04JTN822                                 TPR8,               
+     QVL:大毅,
+    (10G212822004030     )      GA           5.0000 16/07/05                     N
+     RES 8.2K OHM 1/16W (0402) 5%                                               1  
+     YAGEO/RC0402JR-078K2L    <G>   
+     QVL:國巨,
+    (10G212822004070     )      GA           5.0000 16/07/05                     N
+     RES 8.2K OHM 1/16W (0402) 5%                                                  
+     WALSIN/WR04X822 JTL            
+     QVL:華新科,
+2060 10G212845014010            GA PCS       4.0000 16/07/06               S NN
+   P RES 845 OHM 1/16W (0402) 1%                                                   
+     TA-I/RM04FTN8450                                        PR303,PR313,PR412,  
+                                                             PR449,              
+    (10G212845014030     )      GA           4.0000 16/07/05                     N
+     RES 845 OHM 1/16W (0402) 1%                                                1  
+     YAGEO/RC0402FR-07845RL         
+    (10G212845014070     )      GA           4.0000 16/07/05                     N
+     RES 845 OHM 1/16W (0402) 1%                                                   
+     WALSIN/WR04X8450FTL            
+2080 10G212909114010            GA PCS       1.0000 16/07/06               S NN
+   P RES 9.09K OHM 1/16W (0402) 1%                                                 
+     TA-I/RM04FTN9091                                        PR530,              
+    (10G212909114031     )      GA           1.0000 16/07/05                     N
+     RES 9.09K OHM 1/16W (0402) 1%                                                 
+     YAGEO/RC0402FR-079K09L         
+    (10G212909114070     )      GA           1.0000 16/07/05                     N
+     RES 9.09K OHM 1/16W (0402) 1%                                                 
+     WALSIN/WR04X9091FTL            
+2100 10G213000003010            GA PCS       7.0000 16/07/06               S NN
+   P RES 0 OHM 1/10W (0603) JUMP                                                   
+     TA-I/RM06JTN0             <G>                           BGR10,BGR11,BGR8,   
+                                                             BGR9,BR240,R120,    
+                                                             R296,               
+     QVL:(C)大毅,大毅,
+    (10G213000003030     )      GA           7.0000 16/07/05                     N
+     RES 0 OHM 1/10W (0603) JUMP                                                   
+     YAGEO/RC0603JR-070RL      <G>  
+     QVL:(C)國巨,國巨,
+    (10G213000003070     )      GA           7.0000 16/07/05                     N
+     RES 0 OHM 1/10W(0603)JUMP                                                     
+     WALSIN/WR06X000PTL        <G>  
+     QVL:(C)華新科,華新科,
+2110 10G213100013010            GA PCS       5.0000 16/07/06               S NN
+   P RES 100 OHM 1/10W(0603)1%                                                     
+     TA-I/RM06FTN1000          <G>                           OR7,PR205,PR206,    
+                                                             PR256,PR257,        
+     QVL:大毅,
+    (10G213100013030     )      GA           5.0000 16/07/05                     N
+     RES 100 OHM 1/10W(0603)1%                                                     
+     YAGEO/RC0603FR-07100RL    <G>  
+     QVL:國巨,
+    (10G213100013070     )      GA           5.0000 16/07/05                     N
+     RES 100 OHM 1/10W(0603)1%                                                     
+     WALSIN/WR06X1000FTL       <G>  
+     QVL:華新科,
+2130 10G2131R0003010            GA PCS      17.0000 16/07/06               S NN
+   P RES 1 OHM 1/10W(0603)5%                                                       
+     TA-I/RM06JTN1R0           <G>                           PR12,PR126,PR286,   
+                                                             PR30,PR32,PR39,     
+                                                             PR394,PR395,PR404,  
+                                                             PR453,PR454,PR455,  
+                                                             PR462,PR463,PR464,  
+                                                             PR496,PR497,        
+     QVL:(C)大毅,大毅,
+    (10G2131R0003030     )      GA          17.0000 16/07/05                     N
+     RES 1 OHM 1/10W(0603)5%                                                       
+     YAGEO/RC0603JR-071RL      <G>  
+     QVL:(C)國巨,國巨,
+    (10G2131R0003070     )      GA          17.0000 16/07/05                     N
+     RES 1 OHM 1/10W(0603)5%                                                       
+     WALSIN/WR06X1R0JTL        <G>  
+     QVL:(C)華新科,華新科,
+2150 10G213200013010            GA PCS       2.0000 16/08/22               S NN
+   P RES 200 OHM 1/10W(0603)1%                                                     
+     TA-I/RM06FTN2000           <G>                          R2R2,R2R9,          
+     QVL:(C)大毅,大毅,
+    (10G213200013030     )      GA           2.0000 16/07/05                     N
+     RES 200 OHM 1/10W(0603)1%                                                     
+     YAGEO/RC0603FR-07200RL     <G> 
+     QVL:國巨,
+    (10G213200013070     )      GA           2.0000 16/07/05                     N
+     RES 200 OHM 1/10W(0603)1%                                                     
+     WALSIN/WR06X2000FTL        <G> 
+     QVL:華新科,
+2160 10G213201003010            GA PCS       1.0000 16/07/06               S NN
+   P RES 200 OHM 1/10W(0603)5%                                                     
+     TA-I/RM06JTN201           <G>                           BR247,              
+     QVL:(C)大毅,大毅,
+    (10G213201003030     )      GA           1.0000 16/07/05                     N
+     RES 200 OHM 1/10W(0603)5%                                                     
+     YAGEO/RC0603JR-07200RL    <G>  
+     QVL:(C)國巨,國巨,
+    (10G213201003070     )      GA           1.0000 16/07/05                     N
+     RES 200 OHM 1/10W(0603)5%                                                     
+     WALSIN/WR06X201JTL        <G>  
+     QVL:(C)華新科,華新科,
+2170 10G213271003010            GA PCS       1.0000 16/07/06               S NN
+   P RES 270 OHM 1/10W(0603)5%                                                     
+     TA-I/RM06JTN271<G>                                      R430,               
+     QVL:大毅,
+    (10G213271003030     )      GA           1.0000 16/07/05                     N
+     RES 270 OHM 1/10W(0603)5%                                                     
+     YAGEO/RC0603JR-07270RL     <G> 
+     QVL:國巨,
+    (10G213271003070     )      GA           1.0000 16/07/05                     N
+     RES 270 OHM 1/10W(0603)5%                                                     
+     WALSIN/WR06X271JTL         <G> 
+     QVL:華新科,
+2190 10G2132R2003010            GA PCS       3.0000 16/08/23               S NN
+   P RES 2.2 OHM 1/10W(0603)5%                                                     
+     TA-I/RM06JTN-2R2          <G>                           PR330,PR467,PR470,  
+     QVL:(C)大毅,大毅,
+    (10G2132R2003030     )      GA           3.0000 16/07/05                     N
+     RES 2.2 OHM 1/10W(0603)5%                                                     
+     YAGEO/RC0603JR-072R2L     <G>  
+     QVL:(C)國巨,國巨,
+    (10G2132R2003070     )      GA           3.0000 16/07/05                     N
+     RES 2.2 OHM 1/10W(0603)5%                                                     
+     WALSIN/WR06X2R2JTL        <G>  
+     QVL:(C)華新科,華新科,
+2210 10G213301003010            GA PCS       4.0000 16/07/06               S NN
+   P RES 300 OHM 1/10W(0603)5%                                                     
+     TA-I/RM06JTN301           <G>                           BR246,BR250,BR254,  
+                                                             BR261,              
+     QVL:(C)大毅,大毅,
+    (10G213301003030     )      GA           4.0000 16/07/05                     N
+     RES 300 OHM 1/10W(0603)5%                                                     
+     YAGEO/RC0603JR-07300RL    <G>  
+     QVL:(C)國巨,國巨,
+    (10G213301003070     )      GA           4.0000 16/07/05                     N
+     RES 300 OHM 1/10W(0603)5%                                                     
+     WALSIN/WR06X301JTL        <G>  
+     QVL:(C)華新科,華新科,
+2220 10G213330003010            GA PCS       1.0000 16/07/06               S NN
+   P RES 33 OHM 1/10W(0603)5%                                                      
+     TA-I/RM06JTN330           <G>                           R201,               
+     QVL:(C)大毅,大毅,
+    (10G213330003030     )      GA           1.0000 16/07/05                     N
+     RES 33 OHM 1/10W(0603)5%                                                      
+     YAGEO/RC0603JR-0733RL     <G>  
+     QVL:(C)國巨,國巨,
+    (10G213330003070     )      GA           1.0000 16/07/05                     N
+     RES 33 OHM 1/10W(0603)5%                                                      
+     WALSIN/WR06X330JTL        <G>  
+     QVL:(C)華新科,華新科,
+2230 10G213331003010            GA PCS       1.0000 16/07/06               S NN
+   P RES 330 OHM 1/10W(0603)5%                                                     
+     TA-I/RM06JTN331<G>                                      R284,               
+     QVL:大毅,
+    (10G213331003030     )      GA           1.0000 16/07/05                     N
+     RES 330 OHM 1/10W(0603)5%                                                     
+     YAGEO/RC0603JR-07330RL     <G> 
+     QVL:國巨,
+    (10G213331003070     )      GA           1.0000 16/07/05                     N
+     RES 330 OHM 1/10W(0603)5%                                                     
+     WALSIN/WR06X331JTL         <G> 
+     QVL:華新科,
+2240 10G21340R213010            GA PCS       2.0000 16/07/06               S NN
+   P RES 40.2 OHM 1/10W(0603)1%                                                    
+     TA-I/RM06FTN40R2<G>                                     R515,R516,          
+     QVL:大毅,
+    (10G21340R213030     )      GA           2.0000 16/07/05                     N
+     RES 40.2 OHM 1/10W(0603)1%                                                    
+     YAGEO/RC0603FR-0740R2L     <G> 
+     QVL:國巨,
+    (10G21340R213070     )      GA           2.0000 16/07/05                     N
+     RES 40.2 OHM 1/10W(0603)1%                                                    
+     WALSIN/WR06X40R2FTL        <G> 
+     QVL:華新科,
+2250 10G213510013010            GA PCS       1.0000 16/07/06               S NN
+   P RES 510 OHM 1/10W(0603)1%                                                     
+     TA-I/RM06FTN5100          <G>                           BR20,               
+     QVL:(C)大毅,大毅,
+    (10G213510013030     )      GA           1.0000 16/07/05                     N
+     RES 510 OHM 1/10W(0603)1%                                                     
+     YAGEO/RC0603FR-07510RL    <G>  
+     QVL:(C)國巨,國巨,
+    (10G213510013070     )      GA           1.0000 16/07/05                     N
+     RES 510 OHM 1/10W(0603)1%                                                     
+     WALSIN/WR06X5100FTL       <G>  
+     QVL:(C)華新科,華新科,
+2260 10G213649313010            GA PCS       1.0000 16/07/06               S NN
+   P RES 649K OHM 1/10W(0603)1%                                                    
+     TA-I/RM06FTN6493                                        BR265,              
+     QVL:大毅,
+    (10G213649313030     )      GA           1.0000 16/07/05                     N
+     RES 649K OHM 1/10W(0603) 1%                                                   
+     YAGEO/RC0603FR-07649KL         
+     QVL:國巨,
+    (10G213649313070     )      GA           1.0000 16/07/05                     N
+     RES 649K OHM 1/10W(0603) 1%                                                   
+     WALSIN/WR06X6493FTL            
+     QVL:華新科,
+2270 10G215000002010            GA PCS       1.0000 16/07/06               S NN
+   P RES 0 OHM 1/8W(0805)JUMP                                                      
+     TA-I/RM10JTN0             <G>                           BR304,              
+     QVL:(C)大毅,大毅,
+    (10G215000002030     )      GA           1.0000 16/07/05                     N
+     RES 0 OHM 1/8W(0805)JUMP                                                      
+     YAGEO/RC0805JR-070RL      <G>  
+     QVL:(C)國巨,國巨,
+    (10G215000002070     )      GA           1.0000 16/07/05                     N
+     RES 0 OHM 1/8W(0805)JUMP                                                      
+     WALSIN/WR08X000PTL        <G>  
+     QVL:(C)華新科,華新科,
+2280 10G215221002010            GA PCS       1.0000 16/07/06               S NN
+   P RES 220 OHM 1/8W(0805)5%                                                      
+     TA-I/RM10JTN221<G>                                      BR271,              
+     QVL:大毅,
+    (10G215221002030     )      GA           1.0000 16/07/05                     N
+     RES 220 OHM 1/8W(0805)5%                                                      
+     YAGEO/RC0805JR-07220RL     <G> 
+     QVL:國巨,
+    (10G215221002070     )      GA           1.0000 16/07/05                     N
+     RES 220 OHM 1/8W(0805)5%                                                      
+     WALSIN/WR08X221JTL         <G> 
+     QVL:華新科,
+2290 10G2152R2002010            GA PCS       1.0000 16/08/23               S NN
+   P RES 2.2 OHM 1/8W (0805) 5%                                                 2  
+     TA-I/RM10JTN2R2            <G>                          PR505,              
+     QVL:大毅,
+    (10G2152R2002030     )      GA           1.0000 16/08/23                     N
+     RES 2.2 OHM 1/8W (0805) 5%                                                 2  
+     YAGEO/RC0805JR-072R2L      <G> 
+     QVL:國巨,
+    (10G2152R2002070     )      GA           1.0000 16/08/23                     N
+     RES 2.2 OHM 1/8W (0805) 5%                                                 2  
+     WALSIN/WR08X2R2JTL         <G> 
+     QVL:華新科,
+2310 10G219R01016031            GA PCS       1.0000 16/07/11               S NY
+   P RES 10m OHM 2W (2512) 1%                                                      
+     YAGEO/PE2512FKF7W0R01L                                  BR370,              
+    (10G219R01016010     )      GA           1.0000 16/07/11                     Y
+     RES 10m OHM 2W (2512) 1%                                                      
+     TA-I/RLM25FEER010              
+    (10G219R01016030     )      GA           1.0000 16/07/11                     Y
+     RES 10m OHM 2W (2512) 1%                                                      
+     YAGEO/PF2512FKF7W0R01L         
+    (10G219R01016070     )      GA           1.0000 16/07/11                     Y
+     RES 10m OHM 2W (2512) 1%                                                      
+     WALSIN/WW25RR010FTL            
+    (10G219R01016110     )      GA           1.0000 16/07/12                     Y
+     RES 10m OHM 2W (2512) 1%                                                      
+     CYNTEC/RL-3264-9D-R010-FNH     
+2320 11G08D23375G               GA PCS       5.0000 16/07/06                 NN
+   P POSCAP 330UF/6.3V (7343/D) 20%                                                
+     SANYO/6TPE330MAP                                        PCE11,PCE12,PCE15,  
+                                                             PCE16,PCE17,        
+2330 11G08D247790               GA PCS       6.0000 16/07/06                 NY
+   P POSCAP 470UF/2.5V (7343/D) 20%                                                
+     PANASONIC/EEFGX0E471R                                   PCE13,PCE3,PCE4,    
+                                                             PCE5,PCE6,PCE9,     
+2340 11G232010004030            GA PCS      10.0000 16/07/06               S NN
+   P MLCC 10PF/50V(0402)NPO 5%                                                     
+     YAGEO/CC0402JRNPO9BN100    <G>                          OC8,PC1006,PC181,   
+                                                             PC182,PC183,PC212,  
+                                                             PC247,PC248,PC251,  
+                                                             PC259,              
+     QVL:國巨,
+    (11G232010004070     )      GA          10.0000 16/07/05                     N
+     MLCC 10PF/50V(0402)NPO 5%                                                     
+     WALSIN/0402N100J500LT      <G> 
+     QVL:華新科,
+    (11G232010004150     )      GA          10.0000 16/07/05                     N
+     MLCC 10PF/50V(0402)NPO 5%                                                     
+     SAMSUNG/CL05C100JB5NNNC   <G>  
+     QVL:三星,
+    (11G232010004320     )      GA          10.0000 16/07/05                     N
+     MLCC 10PF/50V(0402)NPO 5%                                                  2  
+     MURATA/GRM1555C1H100JA01D      
+     QVL:村田,
+2350 11G232010104030            GA PCS      26.0000 16/07/06               S NN
+   P MLCC 100PF/50V(0402) NPO 5%                                                   
+     YAGEO/CC0402JRNPO9BN101 <G>                             BC20,BC25,BC27,BC32,
+                                                             BC36,BC57,CG5,CG6,  
+                                                             CG7,GC141,GC142,    
+                                                             GC143,GC144,GC145,  
+                                                             GC146,GC147,GC148,  
+                                                             GC149,GC150,GC151,  
+                                                             GC152,GC153,GC154,  
+                                                             GC155,GC156,PC160,  
+     QVL:國巨,
+    (11G232010104070     )      GA          26.0000 16/07/05                     N
+     MLCC 100PF/50V (0402) NPO 5%                                                  
+     WALSIN/0402N101J500LT    <G>   
+     MARKING:WALSIN /0402N101J500LT
+     QVL:華新科,
+    (11G232010104150     )      GA          26.0000 16/07/05                     N
+     MLCC 100PF/50V (0402) NPO 5%                                               2  
+     SAMSUNG/CL05C101JB5NNNC    <G> 
+     QVL:三星,
+2360 11G232012004030            GA PCS       2.0000 16/07/06               S NN
+   P MLCC 12PF/50V (0402) NPO 5%                                                   
+     YAGEO/CC0402JRNPO9BN120                                 C52,C53,            
+     QVL:國巨,
+    (11G232012004070     )      GA           2.0000 16/07/05                     N
+     MLCC 12PF/50V (0402) NPO 5%                                                   
+     WALSIN/0402N120J500LT    <G>   
+     MARKING:WALSIN /0402N120J500LT
+     QVL:華新科,
+    (11G232012004150     )      GA           2.0000 16/07/05                     N
+     MLCC 12PF/50V (0402) NPO 5%                                                   
+     SAMSUNG/CL05C120JB5NNNC        
+     QVL:三星,
+    (11G232012004360     )      GA           2.0000 16/07/05                     N
+     MLCC 12PF/50V (0402) NPO 5%                                                   
+     TAIYO/UMK105CH120JV-F          
+     QVL:太誘,
+2370 11G232015004030            GA PCS       9.0000 16/07/06               S NN
+   P MLCC 15PF/50V (0402)NPO 5%                                                 2  
+     YAGEO/CC0402JRNPO9BN150                                 BGC1,BGC4,GC98,GC99,
+                                                             PC224,PC245,PC996,  
+                                                             RPGT15,RPGT98,      
+     QVL:國巨,
+    (11G232015004070     )      GA           9.0000 16/07/05                     N
+     MLCC 15PF/50V (0402) NPO 5%                                                2  
+     WALSIN/0402N150J500LT          
+     QVL:華新科,
+    (11G232015004150     )      GA           9.0000 16/07/05                     N
+     MLCC 15PF/50V (0402) NPO 5%                                                2  
+     SAMSUNG/CL05C150JB5NNNC        
+     QVL:三星,
+    (11G232015004320     )      GA           9.0000 16/07/05                     N
+     MLCC 15PF/50V (0402) NPO 5%                                                1  
+     MURATA/GRM1555C1H150JA01D      
+     QVL:村田,
+2380 11G232015104030            GA PCS       8.0000 16/07/06               S NN
+   P MLCC 150PF/50V (0402) NPO 5%                                                  
+     YAGEO/CC0402JRNPO9BN151                                 BC121,BC122,BC123,  
+                                                             BC124,BC125,BC126,  
+                                                             BC127,BC128,        
+     QVL:國巨,
+    (11G232015104070     )      GA           8.0000 16/07/05                     N
+     MLCC 150PF/50V (0402)NPO 5%                                                1  
+     WALSIN/0402N151J500LT      <G> 
+     QVL:(C)華新科,華新科,
+    (11G232015104150     )      GA           8.0000 16/07/05                     N
+     MLCC 150PF/50V (0402)NPO 5%                                                2  
+     SAMSUNG/CL05C151JB5NNNC        
+     QVL:三星,
+    (11G232015104320     )      GA           8.0000 16/07/05                     N
+     MLCC 150PF/50V (0402)NPO 5%                                                1  
+     MURATA/GRM1555C1H151JA01D<G>   
+     QVL:村田,
+2390 11G232022004030            GA PCS       5.0000 16/07/06               S NN
+   P MLCC 22PF/50V (0402) NPO 5%                                                2  
+     YAGEO/CC0402JRNPO9BN220                                 BC133,BC135,BC141,  
+                                                             BC151,PC168,        
+     QVL:國巨,
+    (11G232022004070     )      GA           5.0000 16/07/05                     N
+     MLCC 22PF/50V(0402) NPO 5%                                                    
+     WALSIN/0402N220J500LT     <G>  
+     QVL:(C)華新科,華新科,
+    (11G232022004150     )      GA           5.0000 16/07/05                     N
+     MLCC 22PF/50V(0402)NPO 5%                                                  2  
+     SAMSUNG/CL05C220JB5NNNC        
+     QVL:三星,
+    (11G232022004320     )      GA           5.0000 16/07/05                     N
+     MLCC 22PF/50V (0402) NPO 5%                                                1  
+     MURATA/GRM1555C1H220JA01D      
+     QVL:村田,
+2400 11G232033004030            GA PCS       2.0000 16/07/06               S NN
+   P MLCC 33PF/50V (0402)NPO 5%                                                    
+     YAGEO/CC0402JRNPO9BN330                                 C78,C79,            
+     QVL:國巨,
+    (11G232033004070     )      GA           2.0000 16/07/05                     N
+     MLCC 33PF/50V (0402)NPO 5%                                                    
+     WALSIN/0402N330J500LT    <G>   
+     MARKING:no
+     QVL:華新科,
+    (11G232033004150     )      GA           2.0000 16/07/05                     N
+     MLCC 33PF/50V (0402) NPO 5%                                                5  
+     SAMSUNG/CL05C330JB5NNNC    <G> 
+     QVL:三星,
+    (11G232033004320     )      GA           2.0000 16/07/05                     N
+     MLCC 33PF/50V (0402)NPO 5%                                                 1  
+     MURATA/GRM1555C1H330JA01D      
+     QVL:村田,
+2410 11G232047004030            GA PCS       4.0000 16/07/06               S NN
+   P MLCC 47PF/50V(0402)NPO 5%                                                     
+     YAGEO/CC0402JRNPO9BN470    <G>                          OC10,OC11,OC12,OC13,
+    (11G232047004070     )      GA           4.0000 16/07/05                     N
+     MLCC 47PF/50V(0402)NPO 5%                                                     
+     WALSIN/0402N470J500LT      <G> 
+    (11G232047004150     )      GA           4.0000 16/07/05                     N
+     MLCC 47PF/50V(0402)NPO 5%                                                     
+     SAMSUNG/CL05C470JB5NNNC   <G>  
+    (11G232047004320     )      GA           4.0000 16/07/05                     N
+     MLCC 47PF/50V(0402)NPO 5%                                                  2  
+     MURATA/GRM1555C1H470JA01D      
+2420 11G23205R064030            GA PCS       6.0000 16/07/06               S NN
+   P MLCC 5PF/50V (0402) NPO 0.25PF                                             2  
+     YAGEO/CC0402CRNPO9BN5R0                                 BC102,BC91,BC92,    
+                                                             BC93,BC94,BC99,     
+     QVL:(C)國巨,國巨,
+    (11G23205R064070     )      GA           6.0000 16/07/05                     N
+     MLCC 5PF/50V (0402) NPO 0.25PF                                                
+     WALSIN/0402N5R0C500LT          
+     QVL:華新科,
+    (11G23205R064150     )      GA           6.0000 16/07/05                     N
+     MLCC 5PF/50V (0402) NPO 0.25PF                                             1  
+     SAMSUNG/CL05C050CB5NNNC        
+     QVL:三星,
+    (11G23205R064320     )      GA           6.0000 16/07/05                     N
+     MLCC 5PF/50V (0402) NPO 0.25PF                                                
+     MURATA/GRM1555C1H5R0CA01D      
+     QVL:村田,
+2430 11G232110214030            GA PCS      15.0000 16/07/06               S NN
+   P MLCC 1000PF/50V (0402) X7R 10%                                                
+     YAGEO/CC0402KRX7R9BB102   <G>                           BC96,BC97,C212,C213,
+                                                             PC11,PC266,PC286,   
+                                                             PC8,PC859,PC860,    
+                                                             PC875,PC876,PC881,  
+                                                             PC882,PC962,        
+     QVL:YAGEO,
+    (11G232110214070     )      GA          15.0000 16/07/05                     N
+     MLCC 1000PF/50V (0402) X7R 10%                                                
+     WALSIN/0402B102K500CT     <G>  
+     QVL:華新科,
+    (11G232110214150     )      GA          15.0000 16/07/05                     N
+     MLCC 1000PF/50V (0402) X7R 10%                                                
+     SAMSUNG/CL05B102KB5NNNC   <G>  
+     QVL:三星,
+    (11G232110214320     )      GA          15.0000 16/07/05                     N
+     MLCC 1000PF/50V (0402) X7R 10%                                             1  
+     MURATA/GRM155R71H102KA01D      
+2440 11G232110312030            GA PCS      69.0000 16/07/06               S NN
+   P MLCC 0.01UF/25V (0402) X7R 10%                                                
+     YAGEO/CC0402KRX7R8BB103    <G>                          BC73,BC74,C10,      
+                                                             C10641,C11,C12,C13, 
+                                                             C14,C15,C16,C17,C18,
+                                                             C19,C20,C21,C22,C23,
+                                                             C24,C25,C26,C27,C28,
+                                                             C281,C29,C3,C30,C31,
+                                                             C32,C33,C34,C35,C36,
+                                                             C37,C38,C39,C4,C40, 
+                                                             C41,C42,C43,C44,C45,
+                                                             C46,C47,C48,C49,C5, 
+                                                             C50,C6,C7,C8,C9,    
+                                                             GC133,GC134,GC135,  
+                                                             GC136,GC137,GC138,  
+                                                             GC139,GC140,MC11,   
+                                                             MC4,MC5,MC9,OC1,    
+                                                             PC216,PC221,PC249,  
+                                                             PC255,              
+     QVL:國巨,
+    (11G232110312070     )      GA          69.0000 16/07/05                     N
+     MLCC 0.01UF/25V (0402) X7R 10%                                             2  
+     WALSIN/0402B103K250CT   <G>    
+     QVL:華新科,
+    (11G232110312150     )      GA          69.0000 16/07/05                     N
+     MLCC 0.01UF/25V (0402) X7R 10%                                                
+     SAMSUNG/CL05B103KA5NNNC        
+     QVL:三星,
+    (11G232110312320     )      GA          69.0000 16/07/05                     N
+     MLCC 0.01UF/25V (0402) X7R 10%                                                
+     MURATA/GRM155R71E103KA01D<G>   
+     QVL:村田,
+2460 11G232110411030            GA PCS     139.0000 16/08/22               S NN
+   P MLCC 0.1UF/16V(0402)X7R 10%                                                   
+     YAGEO/CC0402KRX7R7BB104                                 BC10,BC11,BC129,    
+                                                             BC130,BC137,BC145,  
+                                                             BC16,BC161,BC163,   
+                                                             BC169,BC170,BC19,   
+                                                             BC22,BC23,BC26,BC28,
+                                                             BC30,BC33,BC35,BC55,
+                                                             BC56,BC82,BC83,BC84,
+                                                             BC90,BGC10,BGC11,   
+                                                             BGC12,BGC15,BGC2,   
+                                                             BGC20,BGC21,BGC22,  
+                                                             BGC23,BGC3,BGC5,    
+                                                             BGC6,BGC7,BGC8,BGC9,
+                                                             BMCC1,BMCC11,BMCC15,
+                                                             BMCC2,BMCC3,BMCC4,  
+                                                             BMCC5,BMCC6,BMCC7,  
+                                                             BMCC8,C10640,C10642,
+                                                             C10648,C10649,      
+                                                             C10662,C10663,      
+                                                             C10670,C151,C214,   
+                                                             C230,C294,C51,C54,  
+                                                             C87,C88,C89,C9A1,   
+                                                             C9A2,CBMC94,CG4,    
+                                                             CP1282,KRC1,KRC10,  
+                                                             KRC11,KRC12,KRC13,  
+                                                             KRC14,KRC15,KRC16,  
+                                                             KRC2,KRC3,KRC4,KRC5,
+                                                             KRC6,KRC7,KRC8,KRC9,
+                                                             MC1,MC10,MC12,MC2,  
+                                                             OC14,OC15,OC16,OC17,
+                                                             OC18,OC19,OC2,OC20, 
+                                                             OC3,OC4,OC6,OC60,   
+                                                             PC1018,PC1031,      
+                                                             PC1032,PC1033,PC109,
+                                                             PC112,PC189,PC205,  
+                                                             PC211,PC213,PC218,  
+                                                             PC240,PC253,PC257,  
+                                                             PC265,PC285,PC289,  
+                                                             PC291,PC620,PC622,  
+                                                             PC811,PC812,PC888,  
+                                                             PC963,PC995,U3C11,  
+                                                             U3C12,U3C13,U3C2,   
+                                                             U3C3,U3C6,U3C7,U3C8,
+                                                             UC2,XC364,XC367,    
+     QVL:國巨,
+    (11G232110411360     )      GA         139.0000 16/07/05                     N
+     MLCC 0.1UF/16V (0402) X7R 10%                                              2  
+     TAIYO/EMK105BJ104KV-FR         
+     QVL:太誘,太誘,
+    (11G232110411070     )      GA         139.0000 16/07/05                     N
+     MLCC 0.1UF/16V(0402) X7R 10%                                               2  
+     WALSIN/0402B104K160CT   <G>    
+     QVL:華新科,
+    (11G232110411320     )      GA         139.0000 16/07/05                     N
+     MLCC 0.1UF/16V (0402) X7R 10%                                              1  
+     MURATA/GRM155R71C104KA88D <G>  
+     QVL:村田,
+    (11G232110411150     )      GA         139.0000 16/07/05                     N
+     MLCC 0.1UF/16V(0402) X7R 10%                                               2  
+     SAMSUNG/CL05B104KO5NNNC        
+     QVL:三星,
+2480 11G232122214030            GA PCS       3.0000 16/07/06               S NN
+   P MLCC 2200PF/50V (0402) X7R 10%                                             2  
+     YAGEO/CC0402KRX7R9BB222 <G>                             PC118,TPC10,TPC11,  
+     QVL:國巨,
+    (11G232122214070     )      GA           3.0000 16/07/05                     N
+     MLCC 2200PF/50V(0402)X7R 10%                                                  
+     WALSIN/0402B222K500CT    <G>   
+     QVL:(C)華新科,華新科,
+    (11G232122214150     )      GA           3.0000 16/07/05                     N
+     MLCC 2200PF/50V (0402) X7R 10%                                             2  
+     SAMSUNG/CL05B222KB5NNNC        
+     QVL:三星,
+    (11G232122214320     )      GA           3.0000 16/07/05                     N
+     MLCC 2200PF/50V(0402)X7R 10%                                               1  
+     MURATA/GRM155R71H222KA01  <G>  
+     QVL:村田,
+2490 11G232122311030            GA PCS       3.0000 16/07/06               S NN
+   P MLCC 0.022UF/16V(0402) X7R 10%                                             2  
+     YAGEO/CC0402KRX7R7BB223                                 PC163,PC170,PC978,  
+     QVL:(C)國巨,國巨,
+    (11G232122311070     )      GA           3.0000 16/07/05                     N
+     MLCC 0.022UF/16V(0402)X7R 10%                                                 
+     WALSIN/0402B223K160CT     <G>  
+     QVL:華新科,
+    (11G232122311150     )      GA           3.0000 16/07/05                     N
+     MLCC 0.022UF/16V(0402)X7R 10%                                                 
+     SAMSUNG/CL05B223KO5NNNC        
+     QVL:三星,
+    (11G232122311320     )      GA           3.0000 16/07/05                     N
+     MLCC 0.022UF/16V(0402)X7R 10%                                              1  
+     MURATA/GRM155R71C223KA01  <G>  
+     QVL:村田,
+    (11G232122311360     )      GA           3.0000 16/07/05                     N
+     MLCC 0.022UF/16V(0402)X7R 10%                                                 
+     TAIYO/EMK105B7223KV-F          
+     QVL:太誘,
+2500 11G232133214030            GA PCS       4.0000 16/07/06               S NN
+   P MLCC 3300PF/50V (0402)X7R 10%                                              2  
+     YAGEO/CC0402KRX7R9BB332                                 CPVC223,CPVC249,    
+                                                             CPVC250,CPVC252,    
+    (11G232133214070     )      GA           4.0000 16/07/05                     N
+     MLCC 3300PF/50V (0402)X7R 10%                                                 
+     WALSIN/0402B332K500CT          
+     MARKING:無
+    (11G232133214320     )      GA           4.0000 16/07/05                     N
+     MLCC 3300PF/50V (0402)X7R 10%                                              1  
+     MURATA/GRM155R71H332KA01D      
+    (11G232133214150     )      GA           4.0000 16/07/05                     N
+     MLCC 3300PF/50V (0402)X7R 10%                                                 
+     SAMSUNG/CL05B332KB5NNNC        
+2510 11G232210416030            GA PCS      58.0000 16/07/06               S NN
+   P MLCC 0.1UF/10V(0402)X5R 10%                                                1  
+     YAGEO/CC0402KRX5R6BB104                                 BC100,BC116,BC117,  
+                                                             BC118,BC119,BC12,   
+                                                             BC120,BC13,BC6,BC62,
+                                                             BC63,BC64,BC65,BC66,
+                                                             BC67,BC68,BC7,BC70, 
+                                                             BC72,BC86,BC88,BC89,
+                                                             BC98,C2R1,C2R2,     
+                                                             GC100,GC101,GC102,  
+                                                             GC103,GC104,GC105,  
+                                                             GC106,GC107,GC108,  
+                                                             GC109,GC110,GC111,  
+                                                             GC112,GC113,GC114,  
+                                                             GC115,GC116,GC117,  
+                                                             GC118,GC119,GC120,  
+                                                             GC121,GC122,GC123,  
+                                                             GC124,GC125,GC126,  
+                                                             GC127,GC128,GC129,  
+                                                             GC130,GC131,GC132,  
+     QVL:國巨,
+    (11G232210416070     )      GA          58.0000 16/07/05                     N
+     MLCC 0.1UF/10V (0402) X5R 10%                                              1  
+     WALSIN/0402X104K100CT    <G>   
+     QVL:華新科,
+    (11G232210416150     )      GA          58.0000 16/07/05                     N
+     MLCC 0.1UF/10V (0402) X5R 10%                                                 
+     SAMSUNG/CL05A104KP5NNNC        
+     QVL:三星,
+    (11G232210416320     )      GA          58.0000 16/07/05                     N
+     MLCC 0.1UF/10V(0402)X5R 10%                                                2  
+     MURATA/GRM155R61A104KA01D      
+     QVL:村田,
+2540 11G232210515030            GA PCS     113.0000 16/08/22               S NN
+   P MLCC 1UF/6.3V (0402) X5R 10%                                                  
+     YAGEO/CC0402KRX5R5BB105                                 BC14,BC15,BC17,BC18,
+                                                             BC29,BC31,BC34,BC37,
+                                                             BC38,BC39,BC40,BC41,
+                                                             BC42,BC45,BC46,BC47,
+                                                             BC48,BC49,BC50,BC51,
+                                                             BC52,BC53,BC54,BC58,
+                                                             BC59,BC60,BC61,BC71,
+                                                             BC75,BC76,BC77,BC78,
+                                                             BC79,BC80,BC87,C100,
+                                                             C101,C102,C103,     
+                                                             C10665,C10669,C113, 
+                                                             C114,C115,C116,C117,
+                                                             C118,C119,C127,C128,
+                                                             C129,C130,C131,C152,
+                                                             C153,C154,C158,C159,
+                                                             C161,C162,C163,C164,
+                                                             C165,C170,C171,C172,
+                                                             C173,C174,C175,C176,
+                                                             C184,C185,C186,C187,
+                                                             C188,C208,C209,C210,
+                                                             C211,C3M1,C3M2,C4N1,
+                                                             C4N2,C4N3,C80,C81,  
+                                                             C85,C86,C90,C91,C92,
+                                                             C93,C94,C97,C98,C99,
+                                                             NVC2,PC1008,PC1021, 
+                                                             PC104,PC210,PC215,  
+                                                             PC226,PC242,PC244,  
+                                                             PC260,PC262,PC276,  
+                                                             PC278,PC4,PC7,PC868,
+                                                             PC891,              
+     QVL:國巨,
+    (11G232210515070     )      GA         113.0000 16/07/05                     N
+     MLCC 1UF/6.3V (0402) X5R 10%                                                  
+     WALSIN/0402X105K6R3CT      <G> 
+     QVL:華新科,
+    (11G232210515150     )      GA         113.0000 16/07/05                     N
+     MLCC 1UF/6.3V (0402) X5R 10%                                                  
+     SAMSUNG/CL05A105KQ5NNNC        
+     QVL:三星,
+    (11G232210515320     )      GA         113.0000 16/07/05                     N
+     MLCC 1UF/6.3V (0402) X5R 10%                                               1  
+     MURATA/GRM155R60J105KE19D      
+     QVL:村田,
+    (11G232210515360     )      GA         113.0000 16/07/05                     N
+     MLCC 1UF/6.3V (0402) X5R 10%                                               2  
+     TAIYO/JMK105BJ105KV-F          
+     QVL:太誘,
+2550 11G232210625030            GA PCS       3.0000 16/07/06               S NY
+   P MLCC 10UF/6.3V(0402) X5R 20%                                                  
+     YAGEO/CC0402MRX5R5BB106                                 PC1005,PC220,PC287, 
+    (11G232210625070     )      GA           3.0000 16/07/05                     Y
+     MLCC 10UF/6.3V(0402) X5R 20%                                                  
+     WALSIN/0402X106M6R3CT          
+    (11G232210625150     )      GA           3.0000 16/07/05                     Y
+     MLCC 10UF/6.3V(0402) X5R 20%                                                  
+     SAMSUNG/CL05A106MQ5NUNC        
+    (11G232210625320     )      GA           3.0000 16/07/05                     Y
+     MLCC 10UF/6.3V(0402) X5R 20%                                                  
+     MURATA/GRM155R60J106ME11D      
+2560 11G232222415030            GA PCS       7.0000 16/07/06               S NN
+   P MLCC 0.22UF/6.3V(0402)X5R 10%                                                 
+     YAGEO/CC0402KRX5R5BB224                                 PC162,PC169,PC973,  
+                                                             XC356,XC357,XC358,  
+                                                             XC362,              
+    (11G232222415070     )      GA           7.0000 16/07/05                     N
+     MLCC 0.22UF/6.3V (0402)X5R 10%                                             2  
+     WALSIN/0402X224K6R3CT      <G> 
+     QVL:(C)華新科,華新科,
+    (11G232222415320     )      GA           7.0000 16/07/05                     N
+     MLCC 0.22UF/6.3V (0402)X5R 10%                                             1  
+     MURATA/GRM155R60J224KE01D      
+     QVL:村田,
+    (11G232222415360     )      GA           7.0000 16/07/05                     N
+     MLCC 0.22UF/6.3V (0402)X5R 10%                                             2  
+     TAIYO/JMK105BJ224KV-F          
+     QVL:(C)太誘,太誘,
+    (11G232222415150     )      GA           7.0000 16/07/05                     Y
+     MLCC 0.22UF/6.3V (0402)X5R 10%                                                
+     SAMSUNG/CL05A224KQ5NNNC        
+2570 11G232222525030            GA PCS       2.0000 16/07/06               S NY
+   P MLCC 2.2UF/6.3V (0402) X5R 20%                                                
+     YAGEO/CC0402MRX5R5BB225                                 C95,C96,            
+    (11G232222525070     )      GA           2.0000 16/07/05                     Y
+     MLCC 2.2UF/6.3V (0402) X5R 20%                                                
+     WALSIN/0402X225M6R3CT          
+    (11G232222525150     )      GA           2.0000 16/07/05                     Y
+     MLCC 2.2UF/6.3V (0402) X5R 20%                                                
+     SAMSUNG/CL05A225MQ5NNNC        
+    (11G232222525320     )      GA           2.0000 16/07/05                     Y
+     MLCC 2.2UF/6.3V (0402) X5R 20%                                                
+     MURATA/GRM155R60J225ME15D      
+    (11G232222525360     )      GA           2.0000 16/07/05                     Y
+     MLCC 2.2UF/6.3V (0402) X5R 20%                                                
+     TAIYO/JMK105BJ225MV-F          
+2580 11G232247525030            GA PCS       3.0000 16/07/06               S NY
+   P MLCC 4.7UF/6.3V (0402) X5R 20%                                                
+     YAGEO/CC0402MRX5R5BB475                                 PC117,PC159,PC166,  
+    (11G232247525070     )      GA           3.0000 16/07/06                     Y
+     MLCC 4.7UF/6.3V (0402) X5R 20%                                                
+     WALSIN/0402X475M6R3CT          
+    (11G232247525150     )      GA           3.0000 16/07/06                     Y
+     MLCC 4.7UF/6.3V (0402) X5R 20%                                                
+     SAMSUNG/CL05A475MQ5NRNC        
+    (11G232247525320     )      GA           3.0000 16/07/06                     Y
+     MLCC 4.7UF/6.3V (0402) X5R 20%                                                
+     MURATA/GRM155R60J475ME47D      
+    (11G232247525360     )      GA           3.0000 16/07/06                     Y
+     MLCC 4.7UF/6.3V (0402) X5R 20%                                                
+     TAIYO/JDK105BJ475MV-F          
+2590 11G233110411030            GA PCS       2.0000 16/07/06               S NN
+   P MLCC 0.1UF/16V (0603)X7R 10%                                                  
+     YAGEO/CC0603KRX7R7BB104   <G>                           PC991,PC992,        
+     QVL:(C)國巨,國巨,
+    (11G233110411070     )      GA           2.0000 16/07/05                     N
+     MLCC 0.1UF/16V (0603)X7R 10%                                                  
+     WALSIN/0603B104K160CT     <G>  
+     QVL:華新科,
+    (11G233110411320     )      GA           2.0000 16/07/05                     N
+     MLCC 0.1UF/16V (0603)X7R 10%                                                  
+     MURATA/GRM188R71C104KA01D      
+     QVL:村田,
+    (11G233110411150     )      GA           2.0000 16/07/05                     N
+     MLCC 0.1UF/16V (0603)X7R 10%                                                  
+     SAMSUNG/CL10B104KO8NNNC   <G>  
+     QVL:三星,
+2600 11G233110412030            GA PCS       8.0000 16/07/06               S NN
+   P MLCC 0.1UF/25V(0603) X7R 10%                                               2  
+     YAGEO/CC0603KRX7R8BB104                                 C10635,C10636,      
+                                                             C10637,PC133,PC280, 
+                                                             PC55,PC855,PC885,   
+     QVL:(C)國巨,國巨,
+    (11G233110412070     )      GA           8.0000 16/07/05                     N
+     MLCC 0.1UF/25V(0603) X7R 10%                                                  
+     WALSIN/0603B104K250CT     <G>  
+     QVL:華新科,
+    (11G233110412320     )      GA           8.0000 16/07/05                     N
+     MLCC 0.1UF/25V(0603) X7R 10%                                               2  
+     MURATA/GRM188R71E104KA01D<G>   
+     QVL:村田,
+    (11G233110412150     )      GA           8.0000 16/07/05                     N
+     MLCC 0.1UF/25V(0603) X7R 10%                                               2  
+     SAMSUNG/CL10B104KA8NNNC        
+     QVL:三星,
+2610 11G233110511030            HF PCS      14.0000 16/07/06               S NN
+   P MLCC 1UF/16V(0603)X7R 10%                                                     
+     YAGEO/CC0603KRX7R7BB105                                 BC101,PC107,PC132,  
+                                                             PC149,PC154,PC161,  
+                                                             PC167,PC214,PC261,  
+                                                             PC279,PC54,PC977,   
+                                                             U3C1,U3C4,          
+    (11G233110511070     )      HF          14.0000 16/07/05                     N
+     MLCC 1UF/16V(0603)X7R 10%                                                     
+     WALSIN/0603B105K160CT     <G>  
+     QVL:華新科,
+    (11G233110511320     )      HF          14.0000 16/07/05                     N
+     MLCC 1UF/16V (0603)X7R 10%                                                    
+     MURATA/GRM188R71C105KA12D      
+     QVL:村田,
+    (11G233110511360     )      HF          14.0000 16/07/05                     N
+     MLCC 1UF/16V(0603)X7R 10%                                                     
+     TAIYO/EMK107B7105KA-TR         
+     QVL:太誘,
+    (11G233110511150     )      HF          14.0000 16/07/05                     N
+     MLCC 1UF/16V(0603)X7R 10%                                                     
+     SAMSUNG/CL10B105KO8NNNC        
+     QVL:三星,
+2620 11G233210511030            GA PCS       9.0000 16/07/06               S NY
+   P MLCC 1UF/16V (0603) X5R 10%                                                   
+     YAGEO/CC0603KRX5R7BB105                                 PC225,PC288,PC290,  
+                                                             PC856,PC873,PC877,  
+                                                             PC880,PC886,PC889,  
+    (11G233210511070     )      GA           9.0000 16/07/05                     Y
+     MLCC 1UF/16V (0603) X5R 10%                                                   
+     WALSIN/0603X105K160CT          
+    (11G233210511150     )      GA           9.0000 16/07/05                     Y
+     MLCC 1UF/16V (0603) X5R 10%                                                   
+     SAMSUNG/CL10A105KO8NNNC        
+    (11G233210511320     )      GA           9.0000 16/07/05                     Y
+     MLCC 1UF/16V (0603) X5R 10%                                                   
+     MURATA/GRM188R61C105KA93D      
+    (11G233210511360     )      GA           9.0000 16/07/05                     Y
+     MLCC 1UF/16V (0603) X5R 10%                                                   
+     TAIYO/EMK107BJ105KA-T          
+2630 11G233210512030            GA PCS       2.0000 16/07/06               S NY
+   P MLCC 1U/25V(0603) X5R 10%                                                     
+     YAGEO/CC0603KRX5R8BB105                                 PC857,PC858,        
+    (11G233210512070     )      GA           2.0000 16/07/05                     Y
+     MLCC 1U/25V(0603) X5R 10%                                                     
+     WALSIN/0603X105K250CT          
+    (11G233210512150     )      GA           2.0000 16/07/05                     Y
+     MLCC 1U/25V(0603) X5R 10%                                                     
+     SAMSUNG/CL10A105KA8NNNC        
+    (11G233210512320     )      GA           2.0000 16/07/05                     Y
+     MLCC 1U/25V(0603) X5R 10%                                                     
+     MURATA/GRM188R61E105KA12D      
+    (11G233210512360     )      GA           2.0000 16/07/05                     Y
+     MLCC 1U/25V(0603) X5R 10%                                                     
+     TAIYO/TMK107BJ105KA-T          
+2640 11G233210621320            GA PCS      27.0000 16/07/06               S NY
+   P MLCC 10UF/16V (0603)X5R 20%                                                   
+     MURATA/GRM188R61C106MAALD                               C10667,C10668,C7A2, 
+                                                             C7A3,C7B4,C7B5,     
+                                                             PC1001,PC130,PC131, 
+                                                             PC15,PC150,PC151,   
+                                                             PC152,PC153,PC155,  
+                                                             PC156,PC157,PC158,  
+                                                             PC16,PC17,PC241,    
+                                                             PC272,PC273,PC284,  
+                                                             PC68,PC69,PC874,    
+    (11G233210621070     )      GA          27.0000 16/07/05                     Y
+     MLCC 10UF/16V (0603)X5R 20%                                                   
+     WALSIN/0603X106M160CT          
+    (11G233210621150     )      GA          27.0000 16/07/05                     Y
+     MLCC 10UF/16V (0603)X5R 20%                                                   
+     SAMSUNG/CL10A106MO8NQNC        
+    (11G233210621360     )      GA          27.0000 16/07/05                     Y
+     MLCC 10UF/16V (0603)X5R 20%                                                   
+     TAIYO/EMK107BBJ106MA-T         
+2660 11G233210625030            GA PCS      49.0000 16/08/22               S NY
+   P MLCC 10UF/6.3V (0603) X5R 20%                                                 
+     YAGEO/CC0603MRX5R5BB106                                 BC44,BC85,BGC13,    
+                                                             BGC14,BGC18,BGC19,  
+                                                             BPC26,C104,C105,    
+                                                             C106,C107,C108,C109,
+                                                             C110,C120,C121,C122,
+                                                             C123,C124,C125,C126,
+                                                             C132,C133,C134,C135,
+                                                             C136,C137,C138,C139,
+                                                             C140,C141,C142,C143,
+                                                             C155,C156,C157,C160,
+                                                             C166,C177,C178,C179,
+                                                             C180,C181,C82,PC621,
+                                                             PC623,PC887,PC890,  
+                                                             UC3,                
+    (11G233210625150     )      GA          49.0000 16/07/05                     N
+     MLCC 10UF/6.3V(0603) X5R 20%                                               1  
+     SAMSUNG/CL10A106MQ8NNNC        
+     QVL:三星,
+    (11G233210625320     )      GA          49.0000 16/07/05                     N
+     MLCC 10UF/6.3V (0603)X5R 20%                                                  
+     MURATA/GRM188R60J106ME47D      
+     QVL:村田,
+    (11G233210625361     )      GA          49.0000 16/07/05                     N
+     MLCC 10UF/6.3V (0603) X5R 20%                                              1  
+     TAIYO/JMK107BJ106MA-T          
+     QVL:太誘,
+2680 11G233222625150            GA PCS      81.0000 16/08/22               S NY
+   P MLCC 22uF/6.3V 0603 X5R 20%                                                   
+     SAMSUNG/CL10A226MQ8NRNE                                 C2A1,C2A2,C2B2,C2B3,
+                                                             C3A3,C3A4,C3A5,C3A6,
+                                                             C3B4,C3B5,C3B6,C3B7,
+                                                             C4A1,C4A2,C4A3,C4B1,
+                                                             C4B2,C4B3,C5A1,C5A2,
+                                                             C5A3,C5A4,C5B1,C5B2,
+                                                             C5B3,C5B4,PC1,PC100,
+                                                             PC1000,PC1007,      
+                                                             PC1009,PC101,PC1010,
+                                                             PC1011,PC1012,      
+                                                             PC1013,PC1014,      
+                                                             PC1015,PC1016,PC102,
+                                                             PC1020,PC1022,      
+                                                             PC1023,PC1029,PC103,
+                                                             PC1030,PC105,PC106, 
+                                                             PC108,PC110,PC111,  
+                                                             PC114,PC115,PC116,  
+                                                             PC164,PC165,PC171,  
+                                                             PC172,PC2,PC274,    
+                                                             PC275,PC277,PC281,  
+                                                             PC282,PC283,PC3,    
+                                                             PC624,PC821,PC866,  
+                                                             PC867,PC871,PC872,  
+                                                             PC883,PC979,PC980,  
+                                                             PC981,PC982,PC985,  
+                                                             PC997,PC998,PC999,  
+    (11G233222625320     )      GA          81.0000 16/07/05                     Y
+     MLCC 22uF/6.3V 0603 X5R 20%                                                   
+     MURATA/GRM188R60J226MEA0D      
+    (11G233222625360     )      GA          81.0000 16/07/05                     Y
+     MLCC 22uF/6.3V 0603 X5R 20%                                                   
+     TAIYO/JDK107BBJ226MA-T         
+2700 11G233247515030            GA PCS       2.0000 16/07/06               S NN
+   P MLCC 4.7UF/6.3V(0603)X5R 10%                                                  
+     YAGEO/CC0603KRX5R5BB475                                 BC24,BC43,          
+     QVL:(C)YAGEO,YAGEO,
+    (11G233247515070     )      GA           2.0000 16/07/05                     N
+     MLCC 4.7UF/6.3V(0603)X5R 10%                                                  
+     WALSIN/0603X475K6R3CT     <G>  
+     QVL:WALSIN,
+    (11G233247515150     )      GA           2.0000 16/07/05                     N
+     MLCC 4.7UF/6.3V(0603)X5R 10%                                                  
+     SAMSUNG/CL10A475KQ8NNNC   <G>  
+     QVL:SAMSUNG,
+    (11G233247515320     )      GA           2.0000 16/07/05                     N
+     MLCC 4.7UF/6.3V(0603)X5R 10%                                                  
+     MURATA/GRM188R60J475KE19  <G>  
+     QVL:MURATA,
+    (11G233247515360     )      GA           2.0000 16/07/05                     N
+     MLCC 4.7UF/6.3V(0603)X5R 10%                                                  
+     TAIYO/JMK107BJ475KA-T     <G>  
+     QVL:TAIYO,
+2710 11G235210611150            GA PCS       6.0000 16/07/06               S NN
+   P MLCC 10UF/16V(0805) X5R 10%                                                   
+     SAMSUNG/CL21A106KOQNNNE                                 BC131,BC132,BC140,  
+                                                             BC147,CP1283,CP1284,
+    (11G235210611320     )      GA           6.0000 16/07/05                     N
+     MLCC 10UF/16V(0805) X5R 10%                                                   
+     MURATA/GRM21BR61C106KE15L      
+    (11G235210611360     )      GA           6.0000 16/07/05                     N
+     MLCC 10UF/16V (0805) X5R 10%                                                  
+     TAIYO/EMK212BJ106KG-T          
+2720 11G235210615360            GA PCS       1.0000 16/07/06               S NN
+   P MLCC 10UF/6.3V (0805) X5R 10%                                              6  
+     TAIYO/JMK212BJ106KG-T     <G>                           BC69,               
+     QVL:太誘,
+    (11G235210615320     )      GA           1.0000 16/07/05                     N
+     MLCC 10UF/6.3V (0805)X5R 10%                                                  
+     MURATA/GRM21BR60J106KE19L      
+     QVL:村田,
+    (11G235210615070     )      GA           1.0000 16/07/05                     N
+     MLCC 10UF/6.3V (0805)X5R 10%                                               2  
+     WALSIN/0805X106K6R3CT    <G>   
+     QVL:華新科,
+    (11G235210615150     )      GA           1.0000 16/07/05                     N
+     MLCC 10UF/6.3V (0805)X5R 10%                                               2  
+     SAMSUNG/CL21A106KQFNNNE  <G>   
+     QVL:三星,
+    (11G235210615030     )      GA           1.0000 16/07/05                     N
+     MLCC 10UF/6.3V (0805) X5R 10%                                                 
+     YAGEO/CC0805KKX5R5BB106        
+2730 11G235222625320            GA PCS      17.0000 16/07/06               S NN
+   P MLCC 22UF/6.3V (0805) X5R 20%                                              5  
+     MURATA/GRM21BR60J226ME39L                               BPC24,BPC25,C111,   
+                                                             C112,C144,C145,C146,
+                                                             C147,C148,C149,C150,
+                                                             C167,C168,C169,C201,
+                                                             PC813,PC940,        
+    (11G235222625030     )      GA          17.0000 16/07/05                     N
+     MLCC 22UF/6.3V (0805) X5R 20%                                                 
+     YAGEO/CC0805MKX5R5BB226        
+    (11G235222625150     )      GA          17.0000 16/07/05                     N
+     MLCC 22UF/6.3V (0805) X5R 20%                                                 
+     SAMSUNG/CL21A226MQQNNNE        
+    (11G235222625360     )      GA          17.0000 16/07/05                     N
+     MLCC 22UF/6.3V(0805) X5R 20%                                               2  
+     TAIYO/JMK212BJ226MG-T          
+2740 11G235247525320            GA PCS       2.0000 16/07/06               S NN
+   P MLCC 4.7UF/6.3V(0805) X5R 20%                                                 
+     MURATA/GRM21BR60J475MA11L                               BC21,CG3,           
+     QVL:MURATA,
+    (11G235247525150     )      GA           2.0000 16/07/05                     N
+     MLCC 4.7UF/6.3V(0805) X5R 20%                                                 
+     SAMSUNG/CL21A475KQFNNNE   <G>  
+     QVL:SAMSUNG,
+    (11G235247525360     )      GA           2.0000 16/07/05                     N
+     MLCC 4.7UF/6.3V(0805) X5R 20%                                                 
+     TAIYO/JMK212BJ475MG-T     <G>  
+     QVL:TAIYO,
+    (11G235247525070     )      GA           2.0000 16/07/05                     N
+     MLCC 4.7UF/6.3V(0805) X5R 20%                                                 
+     WALSIN/0805X475M6R3CT     <G>  
+     QVL:WALSIN,
+    (11G235247525030     )      GA           2.0000 16/07/05                     N
+     MLCC 4.7UF/6.3V(0805) X5R 20%                                                 
+     YAGEO/CC0805MKX5R5BB475        
+     QVL:(C)YAGEO,YAGEO,
+2750 11G23524762B150            GA PCS      10.0000 16/07/06               S NY
+   P MLCC 47UF/4V (0805) X5R 20%                                                   
+     SAMSUNG/CL21A476MRYNNNE                                 C4A4,C4A5,C4B4,C4B5,
+                                                             C5A5,C5A6,C5B5,C5B6,
+                                                             C83,C84,            
+    (11G23524762B320     )      GA          10.0000 16/07/05                     Y
+     MLCC 47UF/4V (0805) X5R 20%                                                   
+     MURATA/GRM21BR60G476ME15L      
+    (11G23524762B360     )      GA          10.0000 16/07/05                     Y
+     MLCC 47UF/4V (0805) X5R 20%                                                   
+     TAIYO/AMK212BJ476MG-TD         
+2760 12G048000160AK             GA PCS       1.0000 16/07/06                 NY
+   P SPI FLASH SOCKET 16P SMT1.27mm                                                
+     LOTES/ACA-SPI-006-P06                                   BMC_FW1,            
+2770 12G151000361AK             GA PCS       3.0000 16/07/06               S NY
+   P MINI SAS 36P VERTICAL F SMT                                                   
+     WINWIN/WMIS-36D7L1PDUW3B (15U)                          SATA0_3,SATA4_7,    
+                                                             SATA8_11,           
+    (12G151000364AK      )      GA           3.0000 16/07/05                     Y
+     MINI SAS 36P VERTICAL F SMT                                                   
+     ALLTOP/C23302-13614-L (15U)    
+2780 12G162800602AK             GA PCS       1.0000 16/07/06                 NY
+   P BtoB HS CON XDP 2X30P 0.5m SMT                                                
+     SAMTEC/QSH-030-01-L-D-A-K                               XDP_CPU1,           
+2790 13G020194000AK             GA PCS       4.0000 16/07/06                 NY
+   P NUT L=1mm, Φ 2.9                                                             
+     EMI STOP/F40M20-100829D4AM                              CPU1_1,CPU1_2,      
+                                                             CPU1_3,CPU1_4,      
+  40 05G001901110AK       燒    GA PCS       1.0000 16/07/11               S NY
+   P FLASH MXIC MX25L25635FMI-10G                                                  
+     256Mb/SOP-16(300mil)/3V                                 BMC_FW1_1,          
+     MARKING:MXICB....../MX25L25635FMI-10G/..........(May be 8~10numbers)
+    (05G001900010AK      )      GA           1.0000 16/07/11                     Y
+     FLASH WINBOND W25Q256FVFIQ                                                    
+     256Mb/SOIC-16(300mil)/2.7V~3.6 
+     MARKING:25Q256FVFQ
+  50 07G016052032AK             GA PCS       1.0000 16/07/11               S NY
+   P BATT-LI CR2032 3V/220mAh                                                      
+     MAXELL/-20度~85度                                       XBT6C1_1,           
+    (07G016422032AK      )      GA           1.0000 16/07/11                     Y
+     BATT-LI KTS BBBCR2032B                                                        
+     CR2032 3V/220mAh EVE           
+  70 11G09021071J               GA PCS       2.0000 16/07/06               S  Y
+   P CAP PL 100UF/16V 6.3*10.5 20%                                                 
+     NICHICON/PLF1C101MDLABFCT                               U3CE7,U3CE8,        
+  80 11G09022771C               GA PCS       5.0000 16/07/06                 NY
+   P CAP PL 270UF/16V 6.3*8 DIP-T                                                  
+     CHEMICON/APSG160EC3271MF08J                             PCE1,PCE14,PCE2,    
+                                                             PCE7,PCE8,          
+  90 12G024002880AK             GA PCS       2.0000 16/07/06               S NY
+   P DDR4 DIMM 288P 15u,H/L:BU/W                                                   
+     FOXCONN/AH08847-R9L1-4F                                 DDR4_A0,DDR4_B0,    
+    (12G024002881AK      )      GA           2.0000 16/07/05                     Y
+     DDR4 DIMM 288P 15u,H/L:BU/W                                                   
+     LOTES/ADDR0047-K003C           
+ 100 12G024002883AK             GA PCS       2.0000 16/07/06               S NY
+   P DDR4 DIMM 288P 15u,H/L:W/W                                                    
+     FOXCONN/AH08847-R9V1-4F                                 DDR4_A1,DDR4_B1,    
+    (12G024002884AK      )      GA           2.0000 16/07/05                     Y
+     DDR4 DIMM 288P 15u,H/L:W/W                                                    
+     LOTES/ADDR0047-K013C           
+ 110 12G030020649AK             GA PCS       1.0000 16/07/06               S NY
+   P SLOT 64P 15u PCIE X4 BREAK(BU)                                                
+     WINWIN/WPES-064DNVB22UWC                                PCIE7,              
+    (12G03002064AAK      )      GA           1.0000 16/07/05                     Y
+     SLOT 64P 15u PCIE X4 BREAK(BU)                                                
+     LOTES/AAA-PCI-161-K27          
+ 120 12G040200089AK             GA PCS       1.0000 16/07/06               S NY
+   P IC SOCKET 8P 2.54mm DIP                                                       
+     PINREX/980-12-308200                                    BIOS1,              
+    (12G040200086AK      )      GA           1.0000 16/07/05                     Y
+     IC SOCKET 8P 2.54mm DIP                                                       
+     L&S/1000801500                 
+ 140 12G044060021AK             GA PCS       8.0000 16/08/03                 NY
+   P MINI JUMPER 1X2P OPEN BLUE UP                                                 
+     PINREX/201-71-01GU00                                    BMC_DIS1_1:12,      
+                                                             CHASSIS_ID1_1:12,   
+                                                             CHASSIS_ID2_1:12,   
+                                                             CHASSIS_ID3_1:12,   
+                                                             ME_RECOVERY1:12,    
+                                                             PMBUS_SEL_ALT1:12,  
+                                                             PMBUS_SEL_CLK1:12,  
+                                                             PMBUS_SEL_DAT1:12,  
+ 150 12G06000002P               GA PCS       3.0000 16/07/06               S NN
+   P HEADER 1X2P,S/T,2.54mm,G/F                                                 2  
+     PINREX/210-81-020B92                                    J5,J6,NMI_BTN1,     
+     QVL:頻銳,
+    (12G06000002RAK      )      GA           3.0000 16/07/05                     Y
+     HEADER 1X2P,S/T,2.54mm,G/F                                                    
+     LONGSHOUNG/1100212100          
+    (12G06000002VAK      )      GA           3.0000 16/07/05                     Y
+     HEADER 1X2P,S/T,2.54mm,G/F                                                    
+     FULLTECH/PH02R22BAJ000         
+    (12G060000027AK      )      GA           3.0000 16/07/05                     Y
+     HEADER 1X2P,S/T,2.54mm,G/F                                                    
+     PINREX/210-91-02GB01 PEGA      
+ 170 12G06000003C               GA PCS      11.0000 16/08/03               S NN
+   P HEADER 1X3P,2.54mm,S/T                                                        
+     PINREX/210-81-03GB01                                    BMC_DIS1,           
+                                                             CHASSIS_ID1,        
+                                                             CHASSIS_ID2,        
+                                                             CHASSIS_ID3,J4,     
+                                                             ME_RECOVERY1,       
+                                                             PMBUS_SEL_ALT1,     
+                                                             PMBUS_SEL_CLK1,     
+                                                             PMBUS_SEL_DAT1,     
+                                                             PWM_CFG1,TR1,       
+     QVL:頻銳,
+    (12G06000003FAK      )      GA          11.0000 16/07/05                     Y
+     HEADER 1X3P S/T 2.54mm                                                        
+     LONGSHOUNG/1100312100          
+    (12G06000003EAK      )      GA          11.0000 16/07/05                     Y
+     HEADER 1X3P S/T 2.54mm                                                        
+     FULLTECH/PH03R22BAJ000         
+    (12G060000035AK      )      GA          11.0000 16/07/05                     Y
+     HEADER 1X3P,2.54mm,S/T                                                        
+     PINREX/210-91-03GB01 PEGA      
+ 180 12G06000004P               GA PCS       3.0000 16/07/06               S NN
+   P HEADER 1X4P S/T 2.54mm G/F                                                    
+     PINREX/210-81-04GB01                                    BMC_DEBUG1,         
+                                                             LED_LAN3_4,SPEAKER1,
+     QVL:頻銳,
+    (12G060000040AK      )      GA           3.0000 16/07/05                     Y
+     HEADER 1X4P S/T 2.54mm G/F                                                    
+     FULLTECH/PH04R22BAJ000         
+    (12G060000043AK      )      GA           3.0000 16/07/05                     Y
+     HEADER 1X4P S/T 2.54mm G/F                                                    
+     PINREX/210-91-04GB01 PEGA      
+ 190 12G061000081AK             GA PCS       2.0000 16/07/06               S NY
+   P HEADER 2X4P S/T 2.54mm K7 BK                                                  
+     PINREX/210-82-04GB02                                    SATA_SGPIO1,        
+                                                             SATA_SGPIO2,        
+    (12G061000082AK      )      GA           2.0000 16/07/05                     Y
+     HEADER 2X4P S/T 2.54mm K7 BK                                                  
+     FULLTECH/PH08R52BAJ007         
+ 200 12G06100020AAK             GA PCS       1.0000 16/07/06               S NY
+   P HEADER 2X10P 2.54mm S/T K3 K6                                                 
+     FULLTECH/PH20R52BAJ073                                  AUX_PANEL1,         
+    (12G061000204AK      )      GA           1.0000 16/07/05                     Y
+     HEADER 2X10P 2.54mm S/T K3 K6                                                 
+     PINREX/210-82-10GB89           
+ 210 12G06105010K               GA PCS       1.0000 16/07/06               S NN
+   P HEADER 2X5P 2.54mm S/T K10 G/F                                                
+     PINREX/210-82-05GB02                                    PANEL1,             
+     QVL:頻銳,
+    (12G06105010NAK      )      GA           1.0000 16/07/05                     Y
+     HEADER 2X5P 2.54mm S/T K10                                                    
+     LONGSHOUNG/1101012210          
+    (12G061050103AK      )      GA           1.0000 16/07/05                     Y
+     HEADER 2X5P 2.54mm S/T K10                                                    
+     FULLTECH/PH10R52BAJ010     <G> 
+    (12G061060102AK      )      GA           1.0000 16/07/05                     Y
+     HEADER 2X5P 2.54mm S/T K10 G/F                                                
+     PINREX/210-92-05GB02 PEGA      
+ 220 12G061100180AK             GA PCS       1.0000 16/07/06               S NY
+   P HEADER 2X9P S/T 2.00mm K13                                                    
+     L&S/1111812213                                          TPMS1,              
+    (12G061100181AK      )      GA           1.0000 16/07/05                     Y
+     HEADER 2X9P S/T 2.00mm K13                                                    
+     FULLTECH/PH18N53BAI013         
+    (12G051110182AK      )      GA           1.0000 16/07/05                     Y
+     HEADER 2X9P S/T 2.00mm K13                                                    
+     PINREX/220-97-09GB13           
+    (12G061100187AK      )      GA           1.0000 16/07/05                     Y
+     HEADER 2X9P S/T 2.00mm K13                                                    
+     PINREX/220-97-09GB13 PEGA      
+ 230 12G08000404MAK             GA PCS       4.0000 16/07/06               S NY
+   P WAFER HD 4P S/T 2.54mm,POST,BK                                                
+     PINREX/744-81-04TB20                                    CPU1_FAN1,FRNT_FAN1,
+                                                             FRNT_FAN2,REAR_FAN1,
+    (12G08000404NAK      )      GA           4.0000 16/07/05                     Y
+     WAFER HD 4P S/T 2.54mm,POST,BK                                                
+     L&S/1700442381                 
+ 240 12G08000504CAK             GA PCS       1.0000 16/07/06               S NY
+   P WAFER HD 5P S/T 2.54mm DIP BK                                                 
+     PINREX/209-80-05GB20                                    PSU_SMB1,           
+    (12G080005050AK      )      GA           1.0000 16/07/05                     Y
+     WAFER HD 5P S/T 2.54mm DIP BK                                                 
+     CS/JS-1143-05 D1BK             
+    (12G08000504DAK      )      GA           1.0000 16/07/05                     Y
+     WAFER HD 5P S/T 2.54mm DIP BK                                                 
+     FULLTECH/CD05R22BAQ001         
+    (12G08000504EAK      )      GA           1.0000 16/07/05                     Y
+     WAFER HD 5P S/T 2.54mm DIP BK                                                 
+     L&S/1700514363                 
+ 250 12G080100051AK             GA PCS       1.0000 16/07/06                 NY
+   P WAFER 5P S/T 2.00mm DIP W/LOCK                                                
+     JOINTTECH/A2006WV-05P                                   BMC_SMB1,           
+ 260 12G080300042AK             GA PCS       1.0000 16/07/06               S NY
+   P WtoB 1X4P S/T 2.5mm DIP                                                       
+     PINREX/756-71-04TW06                                    IPMB1,              
+    (12G080300044AK      )      GA           1.0000 16/07/05                     Y
+     WtoB 1X4P S/T 2.5mm DIP W/KIN                                                 
+     CS/JS-1135-04S(V0)(GF)         
+    (12G080300047AK      )      GA           1.0000 16/07/05                     Y
+     WtoB 1X4P S/T 2.5mm DIP 6T                                                    
+     L&S/1710485063                 
+ 280 12G092033082AK             GA PCS       1.0000 16/08/22                 NY
+   P TACT SWITCH 8P R/A BU LED '0'                                                 
+     HIGHLY/PB6156RSL-4-102                                  UID1,               
+ 290 12G1031A0241AK             GA PCS       1.0000 16/07/06                 NY
+   P COMBO D-SUB9/15P DIP WO/SHIELD                                                
+     XIANYI/DABB2-1M2F-130R                                  VGA_COM1,           
+ 300 12G131030096AK             GA PCS       1.0000 16/07/06                 NY
+   P USB3.0 9P VERTICAL DIP 14.93mm                                                
+     WINWIN/WU3R-09F9B4PBU3                                  USB3_3,             
+ 310 12G142011320               GA PCS       1.0000 16/07/06               S NY
+   P JACK 2*USB3.0/1G LAN,W/LED　                                                  
+     FOXCONN/JFM38U1M-B301-4F                                IPMI_LAN_USB3_1_2,  
+    (12G142011321AK      )      GA           1.0000 16/07/05                     Y
+     JACK 2*USB3.0/1G LAN,W/LED　                                                  
+     UDE/05-A003A7263-1             
+    (12G142011326AK      )      GA           1.0000 16/07/05                     Y
+     JACK 2*USB3.0/1G LAN,W/LED　                                                  
+     FOXCONN/JFM38U1M-B311-4F       
+    (12G14201132DAK      )      GA           1.0000 16/07/05                     Y
+     JACK 2*USB3.0/1G LAN,W/LED                                                    
+     UDE/0C-0003A9BC3-1             
+    (12G14201132BAK      )      GA           1.0000 16/07/05                     Y
+     JACK 2*USB3.0/1G LAN,W/LED                                                    
+     SPEEDTECH/RUJ2JB-4EH1-BC0-0R   
+ 320 12G142313282AK             GA PCS       2.0000 16/07/06                 NY
+   P DUAL RJ45 28P L:Y,R:G/O 2.2mm                                                 
+     UDE/RM3-N74A9V2T                                        LAN_1_2,LAN_3_4,    
+ 340 12G150200086AK             GA PCS       1.0000 16/07/06               S NY
+   P POWER CON 8P 4.2mm*4.2mm BK                                                   
+     PINREX/740-86-085B00                                    ATX12V1,            
+    (12G150200087AK      )      GA           1.0000 16/07/05                     Y
+     POWER CON 8P 4.2mm*4.2mm BK                                                   
+     FNH/AX10-82-04TB00-4P9         
+    (12G15020008AAK      )      GA           1.0000 16/07/05                     Y
+     POWER CON 8P 4.2mm*4.2mm BK                                                   
+     L&S/1900813534                 
+ 350 12G150200248AK             GA PCS       1.0000 16/07/06               S NY
+   P POWER CON 24P 4.2mm*4.2mm BK                                                  
+     PINREX/740-86-24TB00                                    ATXPWR1,            
+    (12G150200249AK      )      GA           1.0000 16/07/05                     Y
+     POWER CON 24P 4.2mm*4.2mm BK                                                  
+     FNH/AX10-82-12TB00-4B10        
+    (12G150200245AK      )      GA           1.0000 16/07/05                     Y
+     POWER CON 24P 4.2mm*4.2mm BK                                                  
+     L&S/1902413532                 
+ 360 12G15600004CAK             GA PCS       1.0000 16/07/11               S NY
+   P POWER CON 4P 4.2mm*4.2mm BK                                                   
+     PINREX/740-86-04TB00                                    HDD_PWR1,           
+    (12G15600004DAK      )      GA           1.0000 16/07/11                     Y
+     POWER CON 4P 4.2mm*4.2mm BK                                                   
+     FNH/AX10-82-02TB00-4P9         
+    (12G15600004GAK      )      GA           1.0000 16/07/11                     Y
+     POWER CON 4P 4.2mm*4.2mm BK                                                   
+     L&S/1900413531                 
+ 370 12G201110090AK             GA PCS       1.0000 16/07/29               S NY
+   P BATT HOLDER/CR2032 S/T 5U'                              ECN:R160013           
+     LOTES/AAA-BAT-038-K11                                   XBT6C1,             
+ 390 13G074040000AK             GA PCS       1.0000 16/07/06               S NY
+   P CPU COOLER 60*60;FAN 5010 4P                                                  
+     COOLERMASTER/ECC-00825-X3-GP                            CPU_1,              
+    (13G074040011AK      )      GA           1.0000 16/07/05                     Y
+     CPU COOLER 60*60;FAN 5010 4P                                                  
+     Y.S.TECH/T-98TI082-02(DELTA)   
+    (13G074040010AK      )      GA           1.0000 16/07/05                     Y
+     CPU COOLER 60*60;FAN 5010 4P-R                                                
+     Y.S.TECH/T-98TI082-04          
+ 400 60-SXG5E0-A01              GA PCS       1.0000 16/07/06                 YN
+   M C3000D4I-4L/M/ASR                                                             
+     R1.01    TEST                   
