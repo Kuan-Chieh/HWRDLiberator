@@ -5,7 +5,7 @@ import os
 #from test import test123
 
 def user_directory_path(instance, filename):
-    return 'Session\\%s\\%s'% (instance.session.id, filename)
+    return os.path.join('Session', str(instance.session.id), str(filename))
 
 
 class Document(models.Model):

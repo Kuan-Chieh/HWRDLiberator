@@ -9,8 +9,10 @@
         {% if method %}
 			<p>{{method}}</p>
 			<p>{{ID}}</p>
-			<div class="content">
-				{{output|linebreaks }}
+			<div >
+				{% for line in output %}
+					<pre>{{line}}</pre>
+				{% endfor %}
 			</div>
 
 		{% else %}
