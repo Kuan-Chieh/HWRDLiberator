@@ -187,8 +187,8 @@ def SBSYNC(request):
                     #print(os.getcwd())
                     arg = '" "'.join([os.path.join(path, x.filename())
                                       for x in BOM_file if x != ''])
-                    arg = os.path.join(os.path.dirname(__file__), 'functions', 'WASRBOM.exe') \
-                          + ' "' + arg + '" ' + wBOM_path + ' 2'
+                    wBOM_parser_path = os.path.relpath(os.path.join(os.path.dirname(__file__), 'functions', 'WASRBOM.exe'), os.getcwd())
+                    arg = wBOM_parser_path + ' "' + arg + '" ' + wBOM_path + ' 2'
                     print(arg)
                     subprocess.call(arg)
                     flag_b = 'bom OK'
