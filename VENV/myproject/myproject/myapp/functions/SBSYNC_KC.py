@@ -144,8 +144,8 @@ def op_check(page):
     
     
     for element in BOM:
-        BOM_part_name = design.BOM.get_from_key(part, self.BOM.get_locations())
-        BOM_element = self.BOM.get_from_key(BOM_part_name)
+        BOM_part_name = design.BOM.get_from_key(element, design.BOM.get_locations())
+        BOM_element = design.BOM.get_from_key(BOM_part_name)
         output.append([BOM_part_name, element, BOM_element['Component_Name']])
         
     output.append([''])
@@ -263,11 +263,11 @@ def check_type():
         BOM_part_name, BOM_element = get_BOM_from_loc(part)
         output.append([page_info.center(35),
                        "----",
-                       SCH_key.upper().center(20),
+                       part.upper().center(20),
                        ":",
-                       SCHpart['Part Number'].center(30),
+                       element['Part Number'].center(30),
                        "<===>",
-                       BOMpart['Part Number'].center(30)])
+                       BOM_element['Part Number'].center(30)])
     output.append(['-'*122],
                   ['Total: %d' % len(Both_incor)])
     output.print()
