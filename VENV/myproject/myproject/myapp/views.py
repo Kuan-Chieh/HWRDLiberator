@@ -112,8 +112,8 @@ def SBSYNC(request):
         
                 
                 for element in BOM:
-                    BOM_part_name = design.BOM.get_from_key(part, self.BOM.get_locations())
-                    BOM_element = self.BOM.get_from_key(BOM_part_name)
+                    BOM_part_name = design.BOM.get_from_key(element, design.BOM.get_locations())
+                    BOM_element = design.BOM.get_from_key(BOM_part_name)
                     
                     output += ' '.join([BOM_part_name,
                                         element,
