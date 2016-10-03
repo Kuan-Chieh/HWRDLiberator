@@ -13,7 +13,7 @@
     (05G020802031AK      )      GA           1.0000 16/09/09                     Y
      EEPROM AT24C02D-SSHM-T SOIC-8                                                 
      ATMEL/2Kb/1.7V-3.6V            
-     MARKING:ATML Hyww/02DM ./........
+     MARKING:ATML Hyww/02DM ./.......
   60 06G004045010               GA PCS       1.0000 16/09/06                 NY
    P LOGIC GTL2002DP TSSOP-8                                                    1  
      NXP/2-bit I2C VL LEVEL SHIFTER                          U1,                 
@@ -410,31 +410,35 @@
      MLCC 0.01UF/25V (0402) X7R 10%                                                
      MURATA/GRM155R71E103KA01D<G>   
      QVL:バ,
- 490 11G232110411030            GA PCS      20.0000 16/09/06               S NN
+ 500 11G232110411030            GA PCS      28.0000 16/09/26               S NN
    P MLCC 0.1UF/16V(0402)X7R 10%                                                   
      YAGEO/CC0402KRX7R7BB104                                 C10,C11,C12,C13,C14,
                                                              C15,C16,C17,C18,C19,
-                                                             C20,C21,C9,PC3,PC4, 
-                                                             PC5,PC9,TPC1,       
-                                                             X557_C17,X557_C99,  
+                                                             C20,C21,C9,LED_C1,  
+                                                             LED_C2,LED_C3,      
+                                                             LED_C4,LED_C5,      
+                                                             LED_C6,LED_C7,      
+                                                             LED_C8,PC3,PC4,PC5, 
+                                                             PC9,TPC1,X557_C17,  
+                                                             X557_C99,           
      QVL:瓣エ,
-    (11G232110411360     )      GA          20.0000 16/09/02                     N
+    (11G232110411360     )      GA          28.0000 16/09/02                     N
      MLCC 0.1UF/16V (0402) X7R 10%                                              2  
      TAIYO/EMK105BJ104KV-FR         
      QVL:び护,び护,
-    (11G232110411070     )      GA          20.0000 16/09/02                     N
+    (11G232110411070     )      GA          28.0000 16/09/02                     N
      MLCC 0.1UF/16V(0402) X7R 10%                                               2  
      WALSIN/0402B104K160CT   <G>    
      QVL:地穝,
-    (11G232110411320     )      GA          20.0000 16/09/02                     N
+    (11G232110411320     )      GA          28.0000 16/09/02                     N
      MLCC 0.1UF/16V (0402) X7R 10%                                              1  
      MURATA/GRM155R71C104KA88D <G>  
      QVL:バ,
-    (11G232110411150     )      GA          20.0000 16/09/02                     N
+    (11G232110411150     )      GA          28.0000 16/09/02                     N
      MLCC 0.1UF/16V(0402) X7R 10%                                               2  
      SAMSUNG/CL05B104KO5NNNC        
      QVL:琍,
- 500 11G232147114030            GA PCS       1.0000 16/09/06               S NN
+ 510 11G232147114030            GA PCS       1.0000 16/09/06               S NN
    P MLCC 470PF/50V (0402) X7R 10%                                              2  
      YAGEO/CC0402KRX7R9BB471   <G>                           PC15,               
      QVL:瓣エ,
@@ -451,7 +455,7 @@
      MLCC 470PF/50V (0402) X7R 10%                                              2  
      MURATA/GRM155R71H471KA01D      
      QVL:バ,
- 510 11G232210416030            GA PCS       3.0000 16/09/06               S NN
+ 520 11G232210416030            GA PCS       3.0000 16/09/06               S NN
    P MLCC 0.1UF/10V(0402)X5R 10%                                                1  
      YAGEO/CC0402KRX5R6BB104                                 X557_C20,X557_C61,  
                                                              X557_C65,           
@@ -468,7 +472,7 @@
      MLCC 0.1UF/10V(0402)X5R 10%                                                2  
      MURATA/GRM155R61A104KA01D      
      QVL:バ,
- 520 11G232210515030            GA PCS       2.0000 16/09/06               S NN
+ 530 11G232210515030            GA PCS       2.0000 16/09/06               S NN
    P MLCC 1UF/6.3V (0402) X5R 10%                                                  
      YAGEO/CC0402KRX5R5BB105                                 PC8,X557_C19,       
      QVL:瓣エ,
@@ -488,7 +492,7 @@
      MLCC 1UF/6.3V (0402) X5R 10%                                               2  
      TAIYO/JMK105BJ105KV-F          
      QVL:び护,
- 530 11G232222415030            GA PCS       4.0000 16/09/06               S NN
+ 540 11G232222415030            GA PCS       4.0000 16/09/06               S NN
    P MLCC 0.22UF/6.3V(0402)X5R 10%                                                 
      YAGEO/CC0402KRX5R5BB224                                 C1,C2,C5,C6,        
     (11G232222415070     )      GA           4.0000 16/09/06                     N
@@ -506,7 +510,7 @@
     (11G232222415150     )      GA           4.0000 16/09/06                     Y
      MLCC 0.22UF/6.3V (0402)X5R 10%                                                
      SAMSUNG/CL05A224KQ5NNNC        
- 540 11G232222525030            GA PCS      47.0000 16/09/06               S NY
+ 550 11G232222525030            GA PCS      47.0000 16/09/06               S NY
    P MLCC 2.2UF/6.3V (0402) X5R 20%                                                
      YAGEO/CC0402MRX5R5BB225                                 X557_C31,X557_C32,  
                                                              X557_C33,X557_C34,  
@@ -544,7 +548,7 @@
     (11G232222525360     )      GA          47.0000 16/09/02                     Y
      MLCC 2.2UF/6.3V (0402) X5R 20%                                                
      TAIYO/JMK105BJ225MV-F          
- 550 11G233110411030            GA PCS       6.0000 16/09/06               S NN
+ 560 11G233110411030            GA PCS       6.0000 16/09/06               S NN
    P MLCC 0.1UF/16V (0603)X7R 10%                                                  
      YAGEO/CC0603KRX7R7BB104   <G>                           PC17,PC18,PC24,PC25,
                                                              PC36,PC38,          
@@ -561,7 +565,7 @@
      MLCC 0.1UF/16V (0603)X7R 10%                                                  
      SAMSUNG/CL10B104KO8NNNC   <G>  
      QVL:琍,
- 560 11G233110412030            GA PCS       3.0000 16/09/06               S NN
+ 570 11G233110412030            GA PCS       3.0000 16/09/06               S NN
    P MLCC 0.1UF/25V(0603) X7R 10%                                               2  
      YAGEO/CC0603KRX7R8BB104                                 PC19,PC26,PC39,     
      QVL:(C)瓣エ,瓣エ,
@@ -577,7 +581,7 @@
      MLCC 0.1UF/25V(0603) X7R 10%                                               2  
      SAMSUNG/CL10B104KA8NNNC        
      QVL:琍,
- 570 11G233222625150            GA PCS       4.0000 16/09/06               S NY
+ 580 11G233222625150            GA PCS       4.0000 16/09/06               S NY
    P MLCC 22uF/6.3V 0603 X5R 20%                                                   
      SAMSUNG/CL10A226MQ8NRNE                                 PC10,PC11,PC12,PC13,
     (11G233222625320     )      GA           4.0000 16/09/02                     Y
@@ -586,13 +590,13 @@
     (11G233222625360     )      GA           4.0000 16/09/02                     Y
      MLCC 22uF/6.3V 0603 X5R 20%                                                   
      TAIYO/JDK107BBJ226MA-T         
- 580 11G234210721030            GA PCS       2.0000 16/09/06               S NY
+ 590 11G234210721030            GA PCS       2.0000 16/09/06               S NY
    P MLCC 100UF/16V 1210 X5R 20%                                                   
      YAGEO/CC1210MKX5R7BB107                                 X557_C74,X557_C75,  
     (11G234210721360     )      GA           2.0000 16/09/06                     Y
      MLCC 100UF/16V 1210 X5R 20%                                                   
      TAIYO/EMK325ABJ107MM-T         
- 590 11G235210611150            GA PCS       4.0000 16/09/06               S NN
+ 600 11G235210611150            GA PCS       4.0000 16/09/06               S NN
    P MLCC 10UF/16V(0805) X5R 10%                                                   
      SAMSUNG/CL21A106KOQNNNE                                 PC16,PC23,PC35,PC37,
     (11G235210611320     )      GA           4.0000 16/09/02                     N
@@ -601,7 +605,7 @@
     (11G235210611360     )      GA           4.0000 16/09/02                     N
      MLCC 10UF/16V (0805) X5R 10%                                                  
      TAIYO/EMK212BJ106KG-T          
- 600 11G235210615360            GA PCS       3.0000 16/09/06               S NN
+ 610 11G235210615360            GA PCS       3.0000 16/09/06               S NN
    P MLCC 10UF/6.3V (0805) X5R 10%                                              6  
      TAIYO/JMK212BJ106KG-T     <G>                           PC30,PC31,PC32,     
      QVL:び护,
@@ -620,7 +624,7 @@
     (11G235210615030     )      GA           3.0000 16/09/02                     N
      MLCC 10UF/6.3V (0805) X5R 10%                                                 
      YAGEO/CC0805KKX5R5BB106        
- 610 11G235222621030            GA PCS       4.0000 16/09/06               S NY
+ 620 11G235222621030            GA PCS       4.0000 16/09/06               S NY
    P MLCC 22UF/16V 0805 X5R 20%                                                    
      YAGEO/CC0805MKX5R7BB226                                 PC1,PC2,PC6,PC7,    
     (11G235222621070     )      GA           4.0000 16/09/06                     Y
@@ -632,7 +636,7 @@
     (11G235222621320     )      GA           4.0000 16/09/06                     Y
      MLCC 22UF/16V 0805 X5R 20%                                                    
      MURATA/GRM219R61C226ME15L      
- 620 11G235222625320            GA PCS      18.0000 16/09/06               S NN
+ 630 11G235222625320            GA PCS      18.0000 16/09/06               S NN
    P MLCC 22UF/6.3V (0805) X5R 20%                                              5  
      MURATA/GRM21BR60J226ME39L                               X557_C21,X557_C22,  
                                                              X557_C23,X557_C24,  
@@ -652,7 +656,7 @@
     (11G235222625360     )      GA          18.0000 16/09/02                     N
      MLCC 22UF/6.3V(0805) X5R 20%                                               2  
      TAIYO/JMK212BJ226MG-T          
- 630 11G235247625150            GA PCS       6.0000 16/09/06               S NY
+ 640 11G235247625150            GA PCS       6.0000 16/09/06               S NY
    P MLCC 47UF/6.3V (0805) X5R 20%                                                 
      SAMSUNG/CL21A476MQYNNNE                                 PC41,PC42,X557_C62, 
                                                              X557_C63,X557_C66,  
@@ -660,7 +664,7 @@
     (11G235247625320     )      GA           6.0000 16/09/02                     Y
      MLCC 47UF/6.3V (0805) X5R 20%                                                 
      MURATA/GRM21BR60J476ME15L      
- 640 11G23524762B150            GA PCS       7.0000 16/09/06               S NY
+ 650 11G23524762B150            GA PCS       7.0000 16/09/06               S NY
    P MLCC 47UF/4V (0805) X5R 20%                                                   
      SAMSUNG/CL21A476MRYNNNE                                 PC20,PC21,PC27,PC28,
                                                              X557_C90,X557_C97,  
@@ -671,7 +675,7 @@
     (11G23524762B360     )      GA           7.0000 16/09/02                     Y
      MLCC 47UF/4V (0805) X5R 20%                                                   
      TAIYO/AMK212BJ476MG-TD         
- 650 12G160Q10640AK             GA PCS       1.0000 16/09/06                 NY
+ 660 12G160Q10640AK             GA PCS       1.0000 16/09/06                 NY
    P BtoB 2X32P PLUG S/T H:7.7mm                                                   
      FCI/10135584-644402LF                                   CON1,               
   10 12G142001190AK             GA PCS       2.0000 16/09/06                 NY

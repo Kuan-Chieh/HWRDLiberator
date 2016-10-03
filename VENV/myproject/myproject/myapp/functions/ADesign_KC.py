@@ -601,8 +601,10 @@ class ASRR:
 		
 		
 	def check_part_by_PN(self, level):
-		if level == "":
-			return;
+##		if level == "":
+##			return ([], [], []);
+
+
 ##		self.output_clear()
 ##		self.output_append('^' + level + "wendi");
 ##		self.output_append('####### List #######')

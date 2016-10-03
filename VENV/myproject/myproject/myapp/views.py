@@ -10,7 +10,8 @@ import os
 
 #from myproject.functions.ADesign_KC import *
 #from myproject.myapp.ADesign_KC import *
-from myproject.myapp.functions.ADesign_KC import *
+#from myproject.myapp.functions.ADesign_KC import *
+from myproject.myapp.functions.SBSYNC_KC import *
 #from myproject.myapp.functions import *
 
 from myproject.myapp.models import *
@@ -19,29 +20,7 @@ import subprocess
 
 #form_list = ['docfile', 'BOM_59t', 'BOM_59b', 'BOM_70', 'EXP', 'CMP']
 designs = {}
-
-def autospace(tuple_):
-    string, l = tuple_
-    if len(string) > l:
-        return string
-    d = l - len(string)
-    return ' '*(d//2) + string + ' '*(d//2+d%2)
-
-def line(*arg):
-    res = ''
-    for line in arg:
-        if type(line) == str:
-            res += line
-        else:
-            res += autospace(line)
-    return res         
-            
-def op2mes(element, op_name):
-    
-    op_temp = []
-    for op in op_name:
-        op_temp.append(element[op])
-    return '|'.join(op_temp)
+f = functions()
 
 def upload(request):
     
@@ -59,102 +38,48 @@ def upload(request):
 
 
 def SBSYNC(request):
+
+    def decode(attrs, values):
+        i = 0
+        res = {}
+        while i < len(attrs) and attrs[i] != '':
+            res[attrs[i]] = values[i]
+            i+=1
+        return res
+    
     # Handle file upload
     if request.method == 'POST':
         
         if "method" in request.POST:
-            method = request.POST["method"]
             ID = request.POST["ID"]
-            design = designs[int(ID)]
-            output = []
-            
-            page_key = design.SCH.get_page_key()
-            op_name = design.SCH.get_op_name()
-            key_name = design.SCH.getkey()
-            
-            if method == 'opcheck':
-                #unset_op, set_op, BOM = design.check_optional(page, True)
-                unset_op, set_op, BOM = design.check_optional('', True)
-                Both = design.SCH.get_from_keys(unset_op[1])
-                SCH = design.SCH.get_from_keys(set_op[1])
-                output += [line(('Page', 35),
-                                '-----',
-                                ('SCH Optional', 17),
-                                '<<<',
-                               ('Location/description', 19),
-                                '>>>   BOM    -----'),
-                           '*'*122]
-                           
+            f.var_init(designs[int(ID)])
+            method = request.POST["method"]
     
-                for element in Both:
-                    page_info = element[page_key]
-                    mes = op2mes(element, op_name)
-
-                    output += [line((page_info, 35),
-                                    '-----',
-                                    (mes, 17),
-                                    '===',
-                                    line('"'+ element[key_name] + '"', 19),
-                                    ">>>    Y     -----")]
-                output += ['='*122]
-                
-                for element in SCH:
-                    page_info = element[page_key]
-                    mes = op2mes(element, op_name)
-                    output += [line((page_info, 35),
-                                    '-----',
-                                    (mes, 17),
-                                    '<<<',
-                                    ('"'+ element[key_name] + '"', 19),
-                                    "===    N     -----")
-                               ]
-                output += ['#'*122, 'Locations cannot find in SCH:']
-        
-                
-                for element in BOM:
-                    BOM_part_name = design.BOM.get_from_key(element, design.BOM.get_locations())
-                    BOM_element = design.BOM.get_from_key(BOM_part_name)
-                    
-                    output += ' '.join([BOM_part_name,
-                                        element,
-                                        BOM_element['Component_Name']])
-                
-                output += ['',
-                           '-'*22+'Result'+'-'*22,
-                           'Elements on SCH and BOM:',
-                           'Incorresponding elements/ Total elements: %d/ %d'%(len(unset_op[1]),
-                                                                           len(unset_op[1])+len(unset_op[0])),
-                           '',
-                           'Elements on SCH but not in BOM:',
-                           'Incorresponding elements/ Total elements: %d/ %d'%(len(set_op[1]),
-                                                                           len(set_op[1])+len(set_op[0])),
-                           '',
-                           'Subtotal elements: %d'% (len(unset_op[1])+len(unset_op[0])+len(set_op[1])+len(set_op[0])),
-                           '',
-                           'Elements on BOM but not SCH:',
-                           len(BOM),
-                           '-'*122,
-                           ]
-        
+            kwarg = decode(request.POST["var_name"].split('|'),
+                         request.POST["var"].split('|'))
+            if request.POST["input_name"] != '':
+                kwarg[request.POST["input_name"]] = request.POST["input"]
+            #design = designs[int(ID)]
+            output = getattr(f, method)(**kwarg).split('\n')
+            
+##            if method == 'opcheck':
+##                
+##                #design = designs[int(ID)]
 ##
-##
-##                design.check_optional(page="", flag = True)
-##                output = design._output
-
-
-
-
-                
-
-            elif method == 'check_PN':
-                
-                design.check_difference('', 'pn')
-                output = design._output
-            elif method == 'Check type':
-                design.check_incor()
-                output = design._output
-            else:
-                output = 'YA'
+##                #output = op_check(page)
+##                output = f.op_check('').split('\n')
+##                
+##            elif method == 'check_PN':
+##                
+##                #design.check_difference('', 'pn')
+##                #output = design._output
+##                pass
+##            elif method == 'Check type':
+##                #design.check_incor()
+##                #output = design._output
+##                pass
+##            else:
+##                output = 'YA'
             
             
             
@@ -214,11 +139,63 @@ def SBSYNC(request):
             else:
                 output = "QQ"
 
-        functions = ['opcheck', 'check_PN', 'Check type']
+        #functions_name = ['opcheck', 'check_PN', 'Check type']
+        
+##        class f_dir():
+##            def __init__(self, Name, func, var = [], input_f = None):
+##                self.name = Name
+##                self.func = func
+##                self.var = var
+##                self.input_f = input_f
+##            def get(self, attr):
+##                return getattr(self, attr)
+        
+        def f_dir(Name, func, var_name = [], var = [], input_name = '', input_des = ''):
+            var_name_s = '|'.join(var_name)
+            var_s = '|'.join(var)                
+            return {'name': Name, 'func': func, 'var_name': var_name_s, 'var': var_s, 'input_name': input_name, 'input_des': input_des}
+        
+        functions = [f_dir('Optional_Check', 'op_check', input_name = 'page', input_des = 'Page'),
+                     f_dir('list_by_op', 'lst_by_op', input_name = 'opt', input_des = 'Option'),
+                     
+                     f_dir('OP_show.', 'optional_show'),
+                     f_dir('OP_write back.', 'op_write'),
+                     
+                     f_dir('Check_type', 'check_type'),
+                     f_dir('Check_ALL_Part_Number_except_R&C', 'check_diff',
+                           ['check_type', 'flag', 'except_R_C'], ['', 'pn', 'True']),
+                     f_dir('Modify_All_SCH_CAP_by_BOM_PN', 'modify',
+                           ['cor_type'], ['']),
+                     
+                     f_dir('check_CAP_size!', 'check_diff',
+                           ['check_type', 'flag'], ['mlcc', 'size']),
+                     f_dir('check_CAP_value!', 'check_diff',
+                           ['check_type', 'flag'], ['mlcc', 'value']),
+                     f_dir('check_CAP_PN!', 'check_diff',
+                           ['check_type', 'flag'], ['mlcc', 'pn']),
+                     f_dir('Check_Y5V_mlcc', 'check_y5v'),
+                     f_dir('Modify_All_SCH_CAP_by_BOM_PN',
+                           'modify',['cor_type'], ['mlcc']),
+
+                     f_dir('check_RES_size!', 'check_diff',
+                           ['check_type', 'flag'], ['res', 'size']),
+                     f_dir('check_RES_value!', 'check_diff',
+                           ['check_type', 'flag'], ['res', 'value']),
+                     f_dir('check_RES_PN!', 'check_diff',
+                           ['check_type', 'flag'], ['res', 'pn']),
+                     f_dir('Modify_All_SCH_RES_by_BOM_PN', 'modify',
+                           ['cor_type'], ['res']),
+
+                     f_dir('List_by_PN', 'lst_by_PN', input_name = 'PN', input_des = 'PN level')
+
+                     ]
+
+                          
 
         return render_to_response(
             'SBSYNC.html',
-            {'method': method, 'output': output, 'functions': functions, 'ID': ID},
+            {'method': method, 'output': output, 'functions': functions,
+             'test': [{'name': 'qwe'}], 'ID': ID},
             context_instance=RequestContext(request)
             )
     else:
