@@ -88,6 +88,7 @@ class db(object):
             self._elements[key] = temp
         else:
             print('The numbers of attributions(%d) and values(%d) are not equal to each other' % (len(attrs), len(values)))
+            print(attrs, values)
         return
     def delete(self, key):
         if key in self._elements:
@@ -459,7 +460,7 @@ class BOM_db(db):
         self._file_name = file_name
         self._elements = {}
         #self._attrs = ['Part Number', 'Component_Name', 'Location']
-        self._attrs = ['Part Number', 'Component_Name']
+        self._attrs = ['Part Number', 'Component_Name', 'Vender', 'Location', 'SUB', 'Component type']
         self._attrs_res = ['Part Number', 'Value', 'PCB Footprint', 'Tolerance']
         self._attrs_cap = ['Part Number', 'Value', 'PCB Footprint', 'CType', 'CChar', 'Tolerance']
         #self._type = {'Res':set({}), 'Cap': set({}), 'Other': set({})}
@@ -480,50 +481,103 @@ class BOM_db(db):
             raise Exception('Duplication')
         else:
             self._location[key] = value
+
+    def _parser(self, lst):
+        loc = lst[0].split(',')
+        values = lst[1].split('$')
+        values.append(loc)
+        if values[0] in self._elements:
+            for location in loc:
+                self._elements[values[0]]['Location'].append(location)
+                try: 
+                    self.location_update(location, values[0])
+                except:
+                    print('Duplication location: %s'% location)
+
+        else:
+            attrs = self._attrs[:]
+            i = 2
+            sub = [values[0]]
+            while i < len(lst):
+                sub.append(lst[i].split('$')[0])
+                i += 1
+            values.append(sub)
+            if re.match('11G', values[0]):
+                attrs += self._attrs_cap[1:]
+                values.append('cap')
+                values += self.decode_mlcc(values[1])
+                #self._type['Cap'].add(values[0])
+            elif re.match('10G', values[0]):
+                attrs += self._attrs_res[1:]
+                values.append('res')
+                values += self.decode_res(values[1])
+                #self._type['Res'].add(values[0])
+            else:
+                values.append('other')
+                #self._type['Other'].add(values[0])
+            self.add(values[0], attrs, values)
+            for location in loc:
+                try: 
+                    self.location_update(location, values[0])
+                except:
+                    print('Duplication location: %s'% location)
+            return
+
     def parser(self):
         try:
             
             with open(self._file_name, 'r') as f:
                 self.clear()
+                temp = []
                 for line in f:
                     if line == '\n':
                         break
-                    
-                    values = line[:-1].split('|')
-                    #Duplication element
-                    if values[0] in self._elements:
-                        for location in f.readline()[:-1].split('|'):
-                            self._elements[values[0]]['Location'].append(location)
-                            try: 
-                                self.location_update(location, values[0])
-                            except:
-                                print('Duplication location: %s'% location)
-                    #New element
+                    if line == 'START\n':
+                        continue
+                    elif line =='END\n':
+                        self._parser(temp)
+                        temp = []
                     else:
-                        attrs = self._attrs[:]                    
-                        attrs.append('Component type')
-                        if re.match('11G', values[0]):
-                            attrs += self._attrs_cap[1:]
-                            values.append('cap')
-                            values += self.decode_mlcc(values[1])
-                            #self._type['Cap'].add(values[0])
-                        elif re.match('10G', values[0]):
-                            attrs += self._attrs_res[1:]
-                            values.append('res')
-                            values += self.decode_res(values[1])
-                            #self._type['Res'].add(values[0])
-                        else:
-                            values.append('other')
-                            #self._type['Other'].add(values[0])
-                        attrs.append('Location')
-                        values.append(f.readline()[:-1].split('|'))
-                        for location in values[-1]:
-                            try: 
-                                self.location_update(location, values[0])
-                            except:
-                                print('Duplication location: %s'% location)
+                        temp.append(line[:-1])
                         
-                        self.add(values[0], attrs, values)
+                    
+                        
+                    
+##                    values = line[:-1].split('|')
+##                    #Duplication element
+##                    if values[0] in self._elements:
+##                        for location in f.readline()[:-1].split('|'):
+##                            self._elements[values[0]]['Location'].append(location)
+##                            try: 
+##                                self.location_update(location, values[0])
+##                            except:
+##                                print('Duplication location: %s'% location)
+##                    #New element
+##                    else:
+##                        attrs = self._attrs[:]                    
+##                        attrs.append('Component type')
+##                        if re.match('11G', values[0]):
+##                            attrs += self._attrs_cap[1:]
+##                            values.append('cap')
+##                            values += self.decode_mlcc(values[1])
+##                            #self._type['Cap'].add(values[0])
+##                        elif re.match('10G', values[0]):
+##                            attrs += self._attrs_res[1:]
+##                            values.append('res')
+##                            values += self.decode_res(values[1])
+##                            #self._type['Res'].add(values[0])
+##                        else:
+##                            values.append('other')
+##                            #self._type['Other'].add(values[0])
+##                        attrs.append('Location')
+##                        values.append(f.readline()[:-1].split('|'))
+##                        for location in values[-1]:
+##                            try: 
+##                                self.location_update(location, values[0])
+##                            except:
+##                                print('Duplication location: %s'% location)
+##                        
+##                        self.add(values[0], attrs, values)
             
             print('BOM parsing done...')
         except IOError:
